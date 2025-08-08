@@ -70,21 +70,21 @@ async function collectCity() {
     }
   }
   
-  // Also search Yelp specifically
+  // Also search ThreeBestRated specifically
   try {
-    const yelpQuery = `site:yelp.com ${queries[0]} ${cityName}`;
-    console.log(`Searching: "${yelpQuery}"`);
-    const yelpResults = await firecrawl.search(yelpQuery, { limit: 3 });
+    const tbrQuery = `site:threebestrated.com ${queries[0]} ${cityName}`;
+    console.log(`Searching: "${tbrQuery}"`);
+    const tbrResults = await firecrawl.search(tbrQuery, { limit: 3 });
     
-    if (yelpResults.data) {
-      yelpResults.data.forEach(r => {
-        if (r.url && r.url.includes('yelp.com/biz/')) {
+    if (tbrResults.data) {
+      tbrResults.data.forEach(r => {
+        if (r.url && r.url.includes('threebestrated.com')) {
           allUrls.add(r.url);
         }
       });
     }
   } catch (error) {
-    console.log(`  ⚠️  Yelp search error: ${error.message}`);
+    console.log(`  ⚠️  ThreeBestRated search error: ${error.message}`);
   }
   
   console.log(`\nFound ${allUrls.size} unique URLs to scrape\n`);
@@ -169,7 +169,7 @@ function extractData(result, city, state, type, url) {
     }
   }
   
-  if (!name || ['Yelp', 'Google', 'Facebook'].includes(name)) return null;
+  if (!name || ['Google', 'Facebook'].includes(name)) return null;
   
   // Extract phone
   const phoneMatch = content.match(/(?:\+?1[-.\s]?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}/);

@@ -1,6 +1,7 @@
 import '../styles/globals.css';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
+import { ThemeProvider } from 'next-themes';
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter();
@@ -18,7 +19,16 @@ function MyApp({ Component, pageProps }) {
     };
   }, [router.events]);
 
-  return <Component {...pageProps} />;
+  return (
+    <ThemeProvider
+      attribute="class"
+      defaultTheme="light"
+      enableSystem={false}
+      disableTransitionOnChange
+    >
+      <Component {...pageProps} />
+    </ThemeProvider>
+  );
 }
 
 export default MyApp;

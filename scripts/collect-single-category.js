@@ -26,8 +26,8 @@ const CATEGORIES = {
     queries: [
       'home inspectors {city} {state}',
       'property inspection {city}',
-      'site:yelp.com home inspectors {city}',
-      'site:threebestrated.com home inspectors {city}'
+      'site:threebestrated.com home inspectors {city}',
+      'site:homeadvisor.com home inspectors {city}'
     ],
     type: 'home'
   },
@@ -36,8 +36,8 @@ const CATEGORIES = {
     queries: [
       'termite inspection {city} {state}',
       'pest inspector {city}',
-      'site:yelp.com termite inspection {city}',
-      'site:threebestrated.com pest control {city}'
+      'site:threebestrated.com pest control {city}',
+      'WDO inspection {city}'
     ],
     type: 'termite'
   },
@@ -46,8 +46,8 @@ const CATEGORIES = {
     queries: [
       'mold inspector {city} {state}',
       'mold testing {city}',
-      'site:yelp.com mold inspection {city}',
-      'site:threebestrated.com mold testing {city}'
+      'site:threebestrated.com mold testing {city}',
+      'indoor air quality testing {city}'
     ],
     type: 'mold'
   },
@@ -56,7 +56,7 @@ const CATEGORIES = {
     queries: [
       'foundation inspector {city} {state}',
       'structural engineer {city}',
-      'site:yelp.com foundation inspection {city}'
+      'foundation inspection services {city}'
     ],
     type: 'foundation'
   },
@@ -65,7 +65,7 @@ const CATEGORIES = {
     queries: [
       'pool inspector {city} {state}',
       'spa inspector {city}',
-      'site:yelp.com pool inspection {city}'
+      'pool inspection services {city}'
     ],
     type: 'pool'
   },
@@ -74,7 +74,7 @@ const CATEGORIES = {
     queries: [
       'radon testing {city} {state}',
       'radon inspector {city}',
-      'site:yelp.com radon testing {city}'
+      'radon measurement services {city}'
     ],
     type: 'radon'
   },
@@ -83,7 +83,7 @@ const CATEGORIES = {
     queries: [
       'commercial property inspector {city} {state}',
       'commercial inspection {city}',
-      'site:yelp.com commercial inspector {city}'
+      'commercial building inspector {city}'
     ],
     type: 'commercial'
   },
@@ -238,7 +238,7 @@ function extractInspectorData(data, city, type, url) {
     }
   }
   
-  if (!businessName || businessName === 'Yelp') return null;
+  if (!businessName) return null;
   
   // Extract phone - look for US phone numbers
   const phoneMatch = content.match(/(?:\+?1[-.\s]?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}/);
@@ -255,14 +255,12 @@ function extractInspectorData(data, city, type, url) {
     website: url,
     city: city.name,
     state: city.state,
-    inspector_type: type,
     enrichment_status: 'pending',
     quality_score: 0,
-    data_source: 'firecrawl_collect',
-    source_url: url,
-    created_at: new Date().toISOString(),
     enrichment_data: {
       inspector_type: type,
+      data_source: 'firecrawl_collect',
+      source_url: url,
       needs_enrichment: true,
       collected_at: new Date().toISOString()
     }
@@ -272,7 +270,6 @@ function extractInspectorData(data, city, type, url) {
 function isValidBusinessUrl(url) {
   const excludePatterns = [
     'google.com/search',
-    'yelp.com/search',
     'yellowpages.com/search',
     'angi.com/search',
     'wikipedia.org',
@@ -282,16 +279,18 @@ function isValidBusinessUrl(url) {
     'reddit.com',
     '.gov/',
     'nextdoor.com',
-    'craigslist.org'
+    'craigslist.org',
+    // Exclude Yelp entirely due to 403 errors
+    'yelp.com'
   ];
   
   // These are good sources we want to include:
-  // - yelp.com/biz/ (business pages)
   // - facebook.com business pages
   // - homeadvisor.com profiles
   // - thumbtack.com profiles
   // - bbb.org business profiles
   // - threebestrated.com listings
+  // - angi.com business pages (not search)
   
   return !excludePatterns.some(pattern => url.includes(pattern));
 }
