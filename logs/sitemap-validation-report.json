@@ -1,0 +1,168 @@
+{
+  "timestamp": "2025-08-07T07:00:03.042Z",
+  "siteUrl": "https://inspectorsnearme.com",
+  "validatedFiles": [
+    {
+      "file": "sitemap.xml",
+      "path": "/Users/chris/2org-inspectorsnearme/public/sitemap.xml",
+      "exists": true,
+      "size": 64848,
+      "lastModified": "2025-08-07T07:00:02.416Z",
+      "xmlValidation": {
+        "hasXmlDeclaration": true,
+        "hasProperEncoding": true,
+        "hasNamespace": true,
+        "hasUrlsetOrSitemapindex": true,
+        "hasClosingTags": true,
+        "urlCount": 368,
+        "sitemapCount": 0,
+        "fileSize": 64848,
+        "isWellFormed": false,
+        "issues": [
+          "Possible unescaped XML characters detected"
+        ]
+      },
+      "isValid": false
+    },
+    {
+      "file": "sitemap-index.xml",
+      "path": "/Users/chris/2org-inspectorsnearme/public/sitemap-index.xml",
+      "exists": true,
+      "size": 375,
+      "lastModified": "2025-08-07T07:00:02.818Z",
+      "xmlValidation": {
+        "hasXmlDeclaration": true,
+        "hasProperEncoding": true,
+        "hasNamespace": true,
+        "hasUrlsetOrSitemapindex": true,
+        "hasClosingTags": true,
+        "urlCount": 0,
+        "sitemapCount": 2,
+        "fileSize": 375,
+        "isWellFormed": false,
+        "issues": [
+          "Possible unescaped XML characters detected"
+        ]
+      },
+      "isValid": false
+    },
+    {
+      "file": "sitemap-images.xml",
+      "path": "/Users/chris/2org-inspectorsnearme/public/sitemap-images.xml",
+      "exists": true,
+      "size": 96670,
+      "lastModified": "2025-08-07T07:00:03.007Z",
+      "xmlValidation": {
+        "hasXmlDeclaration": true,
+        "hasProperEncoding": true,
+        "hasNamespace": true,
+        "hasUrlsetOrSitemapindex": true,
+        "hasClosingTags": true,
+        "urlCount": 240,
+        "sitemapCount": 0,
+        "fileSize": 96670,
+        "isWellFormed": false,
+        "issues": [
+          "Possible unescaped XML characters detected"
+        ]
+      },
+      "isValid": false
+    },
+    {
+      "file": "city-pages.xml",
+      "path": "/Users/chris/2org-inspectorsnearme/public/sitemaps/city-pages.xml",
+      "exists": true,
+      "size": 2738,
+      "lastModified": "2025-08-07T07:00:02.596Z",
+      "xmlValidation": {
+        "hasXmlDeclaration": true,
+        "hasProperEncoding": true,
+        "hasNamespace": true,
+        "hasUrlsetOrSitemapindex": true,
+        "hasClosingTags": true,
+        "urlCount": 14,
+        "sitemapCount": 0,
+        "fileSize": 2738,
+        "isWellFormed": false,
+        "issues": [
+          "Possible unescaped XML characters detected"
+        ]
+      },
+      "isValid": false
+    },
+    {
+      "file": "inspectors.xml",
+      "path": "/Users/chris/2org-inspectorsnearme/public/sitemaps/inspectors.xml",
+      "exists": true,
+      "size": 56701,
+      "lastModified": "2025-08-07T07:00:02.816Z",
+      "xmlValidation": {
+        "hasXmlDeclaration": true,
+        "hasProperEncoding": true,
+        "hasNamespace": true,
+        "hasUrlsetOrSitemapindex": true,
+        "hasClosingTags": true,
+        "urlCount": 324,
+        "sitemapCount": 0,
+        "fileSize": 56701,
+        "isWellFormed": false,
+        "issues": [
+          "Possible unescaped XML characters detected"
+        ]
+      },
+      "isValid": false
+    },
+    {
+      "file": "robots.txt",
+      "path": "/Users/chris/2org-inspectorsnearme/public/robots.txt",
+      "exists": true,
+      "size": 714,
+      "lastModified": "2025-08-07T07:00:03.009Z",
+      "xmlValidation": {
+        "hasXmlDeclaration": false,
+        "hasProperEncoding": false,
+        "hasNamespace": false,
+        "hasUrlsetOrSitemapindex": false,
+        "hasClosingTags": false,
+        "urlCount": 0,
+        "sitemapCount": 0,
+        "fileSize": 714,
+        "isWellFormed": false,
+        "issues": [
+          "Missing XML declaration",
+          "Missing UTF-8 encoding declaration",
+          "Missing sitemap namespace",
+          "No URLs or sitemaps found"
+        ]
+      },
+      "isValid": false
+    },
+    {
+      "file": "robots.txt",
+      "exists": true,
+      "hasSitemapDirective": true,
+      "sitemapUrls": [
+        "https://inspectorsnearme.com/sitemap.xml",
+        "https://inspectorsnearme.com/sitemap-index.xml"
+      ],
+      "isValid": true
+    }
+  ],
+  "summary": {
+    "totalFiles": 6,
+    "validFiles": 0,
+    "invalidFiles": 6,
+    "totalUrls": 946,
+    "issues": [
+      "sitemap.xml: Possible unescaped XML characters detected",
+      "sitemap-index.xml: Possible unescaped XML characters detected",
+      "sitemap-images.xml: Possible unescaped XML characters detected",
+      "city-pages.xml: Possible unescaped XML characters detected",
+      "inspectors.xml: Possible unescaped XML characters detected",
+      "robots.txt: Missing XML declaration",
+      "robots.txt: Missing UTF-8 encoding declaration",
+      "robots.txt: Missing sitemap namespace",
+      "robots.txt: No URLs or sitemaps found"
+    ]
+  }
+}

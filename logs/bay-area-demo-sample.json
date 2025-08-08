@@ -1,0 +1,87 @@
+{
+  "demo_metadata": {
+    "collected_at": "2025-07-28T08:10:38.062Z",
+    "total_inspectors": 5,
+    "api_calls": 6,
+    "duration_seconds": 6.867,
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "sample_inspectors": [
+    {
+      "business_name": "Golden Gate Home Inspections",
+      "phone": "(415) 878-1331",
+      "website": "https://goldengatehomeinspections.com/",
+      "address_street": "201 Spear St #1100",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94105",
+      "lat": 37.7913437,
+      "lng": -122.3928159,
+      "google_rating": 5,
+      "google_reviews_count": 315,
+      "google_place_id": "ChIJmZ9PUumBhYARMRZGZHsTfiw",
+      "collected_at": "2025-07-28T08:10:32.386Z"
+    },
+    {
+      "business_name": "Bay Area Home Inspections",
+      "phone": "(415) 515-3355",
+      "website": "http://www.bayareahomeinspections.com/",
+      "address_street": "551 25th Ave",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94121",
+      "lat": 37.7790515,
+      "lng": -122.4849569,
+      "google_rating": 5,
+      "google_reviews_count": 159,
+      "google_place_id": "ChIJP5sQzTZ-j4ARg7RQjk1oikY",
+      "collected_at": "2025-07-28T08:10:33.537Z"
+    },
+    {
+      "business_name": "California Healthy Home Inspections",
+      "phone": "(415) 828-4700",
+      "website": "http://www.ca-hh.com/",
+      "address_street": "1799 Old Bayshore Hwy Suite 241C",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94010",
+      "lat": 37.60225270000001,
+      "lng": -122.372253,
+      "google_rating": 5,
+      "google_reviews_count": 243,
+      "google_place_id": "ChIJSaB9MtZ3j4ARDA2ocAYnJJA",
+      "collected_at": "2025-07-28T08:10:34.680Z"
+    },
+    {
+      "business_name": "Sequoia Home Inspections",
+      "phone": "(415) 295-2277",
+      "website": "https://www.sequoiahomeinspections.com/",
+      "address_street": "11 Lodge Ln",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94901",
+      "lat": 37.96575609999999,
+      "lng": -122.535322,
+      "google_rating": 5,
+      "google_reviews_count": 43,
+      "google_place_id": "ChIJPSLsCzwmUoYRUCNcnG_DAK8",
+      "collected_at": "2025-07-28T08:10:35.911Z"
+    },
+    {
+      "business_name": "PCA Inspections",
+      "phone": "(415) 771-8877",
+      "website": "http://pcainspect.com/",
+      "address_street": "2453 Franklin St",
+      "address_city": "San Francisco",
+      "address_state": "CA",
+      "address_zip": "94123",
+      "lat": 37.7972336,
+      "lng": -122.4256021,
+      "google_rating": 5,
+      "google_reviews_count": 14,
+      "google_place_id": "ChIJoeGXksKAhYARkH-DgX6HDLk",
+      "collected_at": "2025-07-28T08:10:37.062Z"
+    }
+  ]
+}

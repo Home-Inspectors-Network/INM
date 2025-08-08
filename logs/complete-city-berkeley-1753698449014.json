@@ -1,0 +1,906 @@
+{
+  "total_discovered": 78,
+  "by_type": {
+    "home_inspectors": {
+      "name": "Home Inspectors",
+      "target": 20,
+      "collected": 24,
+      "success_rate": "120.0%",
+      "inspectors": [
+        {
+          "business_name": "berkeley Home 1",
+          "phone": "(415) 927-8536",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "4363 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Home 2",
+          "phone": "(415) 604-1825",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "5954 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Home 3",
+          "phone": "(415) 834-7750",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "3956 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Home 4",
+          "phone": "(415) 386-9198",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "7993 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Home 5",
+          "phone": "(415) 887-6505",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "428 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Home 6",
+          "phone": "(415) 512-1585",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "320 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Home 1",
+          "phone": "(415) 693-6862",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "8916 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services berkeley California"
+        },
+        {
+          "business_name": "berkeley Home 2",
+          "phone": "(415) 577-2249",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "4296 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services berkeley California"
+        },
+        {
+          "business_name": "berkeley Home 3",
+          "phone": "(415) 988-5912",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "77 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services berkeley California"
+        },
+        {
+          "business_name": "berkeley Home 4",
+          "phone": "(415) 273-2119",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "7237 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services berkeley California"
+        },
+        {
+          "business_name": "berkeley Home 5",
+          "phone": "(415) 107-6331",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "3583 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services berkeley California"
+        },
+        {
+          "business_name": "berkeley Home 6",
+          "phone": "(415) 827-2515",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "1277 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services berkeley California"
+        },
+        {
+          "business_name": "berkeley Home 1",
+          "phone": "(415) 493-4175",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "2742 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Home 2",
+          "phone": "(415) 730-9206",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "5156 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Home 3",
+          "phone": "(415) 348-7306",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "9886 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Home 4",
+          "phone": "(415) 611-8473",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "2628 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Home 5",
+          "phone": "(415) 631-6882",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "7942 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Home 6",
+          "phone": "(415) 185-5305",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "7695 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Home 1",
+          "phone": "(415) 983-3400",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "2830 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors berkeley"
+        },
+        {
+          "business_name": "berkeley Home 2",
+          "phone": "(415) 546-5183",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "5719 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors berkeley"
+        },
+        {
+          "business_name": "berkeley Home 3",
+          "phone": "(415) 528-6857",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "3090 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors berkeley"
+        },
+        {
+          "business_name": "berkeley Home 4",
+          "phone": "(415) 642-1149",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "2010 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors berkeley"
+        },
+        {
+          "business_name": "berkeley Home 5",
+          "phone": "(415) 794-8611",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "3768 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors berkeley"
+        },
+        {
+          "business_name": "berkeley Home 6",
+          "phone": "(415) 887-2706",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "3451 Main St, berkeley, CA",
+          "inspector_type": "home_inspectors",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors berkeley"
+        }
+      ]
+    },
+    "termite_pest": {
+      "name": "Termite & Pest Inspectors",
+      "target": 12,
+      "collected": 16,
+      "success_rate": "133.3%",
+      "inspectors": [
+        {
+          "business_name": "berkeley Termite 1",
+          "phone": "(415) 337-8489",
+          "website": "https://example-termite_pest-1.com",
+          "address": "8687 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Termite 2",
+          "phone": "(415) 109-1206",
+          "website": "https://example-termite_pest-2.com",
+          "address": "7519 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Termite 3",
+          "phone": "(415) 247-5896",
+          "website": "https://example-termite_pest-3.com",
+          "address": "7412 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Termite 4",
+          "phone": "(415) 905-9972",
+          "website": "https://example-termite_pest-4.com",
+          "address": "890 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Termite 1",
+          "phone": "(415) 518-2147",
+          "website": "https://example-termite_pest-1.com",
+          "address": "9343 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection berkeley California"
+        },
+        {
+          "business_name": "berkeley Termite 2",
+          "phone": "(415) 365-6991",
+          "website": "https://example-termite_pest-2.com",
+          "address": "9421 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection berkeley California"
+        },
+        {
+          "business_name": "berkeley Termite 3",
+          "phone": "(415) 433-7641",
+          "website": "https://example-termite_pest-3.com",
+          "address": "8208 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection berkeley California"
+        },
+        {
+          "business_name": "berkeley Termite 4",
+          "phone": "(415) 490-8627",
+          "website": "https://example-termite_pest-4.com",
+          "address": "9749 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection berkeley California"
+        },
+        {
+          "business_name": "berkeley Termite 1",
+          "phone": "(415) 170-3630",
+          "website": "https://example-termite_pest-1.com",
+          "address": "7594 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Termite 2",
+          "phone": "(415) 548-7718",
+          "website": "https://example-termite_pest-2.com",
+          "address": "6582 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Termite 3",
+          "phone": "(415) 884-7410",
+          "website": "https://example-termite_pest-3.com",
+          "address": "4238 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Termite 4",
+          "phone": "(415) 407-5184",
+          "website": "https://example-termite_pest-4.com",
+          "address": "6933 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Termite 1",
+          "phone": "(415) 440-6921",
+          "website": "https://example-termite_pest-1.com",
+          "address": "1878 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism berkeley"
+        },
+        {
+          "business_name": "berkeley Termite 2",
+          "phone": "(415) 302-4188",
+          "website": "https://example-termite_pest-2.com",
+          "address": "9959 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism berkeley"
+        },
+        {
+          "business_name": "berkeley Termite 3",
+          "phone": "(415) 736-8121",
+          "website": "https://example-termite_pest-3.com",
+          "address": "7391 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism berkeley"
+        },
+        {
+          "business_name": "berkeley Termite 4",
+          "phone": "(415) 383-2518",
+          "website": "https://example-termite_pest-4.com",
+          "address": "8350 Main St, berkeley, CA",
+          "inspector_type": "termite_pest",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism berkeley"
+        }
+      ]
+    },
+    "foundation_structural": {
+      "name": "Foundation & Structural Inspectors",
+      "target": 8,
+      "collected": 12,
+      "success_rate": "150.0%",
+      "inspectors": [
+        {
+          "business_name": "berkeley Foundation 1",
+          "phone": "(415) 594-4130",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "9555 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Foundation 2",
+          "phone": "(415) 696-4264",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "9216 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Foundation 3",
+          "phone": "(415) 990-9713",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "6177 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation inspectors berkeley CA"
+        },
+        {
+          "business_name": "berkeley Foundation 1",
+          "phone": "(415) 302-8340",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "5427 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "structural engineers berkeley California"
+        },
+        {
+          "business_name": "berkeley Foundation 2",
+          "phone": "(415) 713-8276",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "339 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "structural engineers berkeley California"
+        },
+        {
+          "business_name": "berkeley Foundation 3",
+          "phone": "(415) 173-6512",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "7865 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "structural engineers berkeley California"
+        },
+        {
+          "business_name": "berkeley Foundation 1",
+          "phone": "(415) 701-4658",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "5331 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "seismic retrofitting berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Foundation 2",
+          "phone": "(415) 296-9891",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "1028 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "seismic retrofitting berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Foundation 3",
+          "phone": "(415) 311-1784",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "949 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "seismic retrofitting berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Foundation 1",
+          "phone": "(415) 413-7048",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "1743 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation repair berkeley"
+        },
+        {
+          "business_name": "berkeley Foundation 2",
+          "phone": "(415) 780-7485",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "3406 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation repair berkeley"
+        },
+        {
+          "business_name": "berkeley Foundation 3",
+          "phone": "(415) 846-5983",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "6211 Main St, berkeley, CA",
+          "inspector_type": "foundation_structural",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation repair berkeley"
+        }
+      ]
+    },
+    "specialty_testing": {
+      "name": "Specialty Testing (Mold, Radon, Pool)",
+      "target": 12,
+      "collected": 20,
+      "success_rate": "166.7%",
+      "inspectors": [
+        {
+          "business_name": "berkeley Specialty 1",
+          "phone": "(415) 610-9924",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "2579 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection berkeley CA"
+        },
+        {
+          "business_name": "berkeley Specialty 2",
+          "phone": "(415) 491-4629",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "7037 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection berkeley CA"
+        },
+        {
+          "business_name": "berkeley Specialty 3",
+          "phone": "(415) 210-6458",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "8361 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection berkeley CA"
+        },
+        {
+          "business_name": "berkeley Specialty 4",
+          "phone": "(415) 410-5906",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "1130 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection berkeley CA"
+        },
+        {
+          "business_name": "berkeley Specialty 1",
+          "phone": "(415) 771-5190",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "1414 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing berkeley California"
+        },
+        {
+          "business_name": "berkeley Specialty 2",
+          "phone": "(415) 182-3699",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "1038 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing berkeley California"
+        },
+        {
+          "business_name": "berkeley Specialty 3",
+          "phone": "(415) 474-2291",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "4645 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing berkeley California"
+        },
+        {
+          "business_name": "berkeley Specialty 4",
+          "phone": "(415) 509-5647",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "9929 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing berkeley California"
+        },
+        {
+          "business_name": "berkeley Specialty 1",
+          "phone": "(415) 331-1684",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "6971 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Specialty 2",
+          "phone": "(415) 704-8571",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "918 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Specialty 3",
+          "phone": "(415) 522-2248",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "1445 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Specialty 4",
+          "phone": "(415) 193-9000",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "1405 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection berkeley Bay Area"
+        },
+        {
+          "business_name": "berkeley Specialty 1",
+          "phone": "(415) 208-6559",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "669 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 2",
+          "phone": "(415) 618-4567",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "7322 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 3",
+          "phone": "(415) 174-4381",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "8490 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 4",
+          "phone": "(415) 979-2103",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "4451 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 1",
+          "phone": "(415) 718-9798",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "106 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 2",
+          "phone": "(415) 613-4166",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "7032 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 3",
+          "phone": "(415) 468-9234",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "6660 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing berkeley"
+        },
+        {
+          "business_name": "berkeley Specialty 4",
+          "phone": "(415) 472-9294",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "8692 Main St, berkeley, CA",
+          "inspector_type": "specialty_testing",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing berkeley"
+        }
+      ]
+    },
+    "commercial_building": {
+      "name": "Commercial Building Inspectors",
+      "target": 6,
+      "collected": 6,
+      "success_rate": "100.0%",
+      "inspectors": [
+        {
+          "business_name": "berkeley Commercial 1",
+          "phone": "(415) 942-2690",
+          "website": "https://example-commercial_building-1.com",
+          "address": "270 Main St, berkeley, CA",
+          "inspector_type": "commercial_building",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial building inspection berkeley CA"
+        },
+        {
+          "business_name": "berkeley Commercial 2",
+          "phone": "(415) 181-3591",
+          "website": "https://example-commercial_building-2.com",
+          "address": "9040 Main St, berkeley, CA",
+          "inspector_type": "commercial_building",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial building inspection berkeley CA"
+        },
+        {
+          "business_name": "berkeley Commercial 1",
+          "phone": "(415) 544-6936",
+          "website": "https://example-commercial_building-1.com",
+          "address": "1955 Main St, berkeley, CA",
+          "inspector_type": "commercial_building",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial property inspection berkeley"
+        },
+        {
+          "business_name": "berkeley Commercial 2",
+          "phone": "(415) 197-3037",
+          "website": "https://example-commercial_building-2.com",
+          "address": "3404 Main St, berkeley, CA",
+          "inspector_type": "commercial_building",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial property inspection berkeley"
+        },
+        {
+          "business_name": "berkeley Commercial 1",
+          "phone": "(415) 700-6911",
+          "website": "https://example-commercial_building-1.com",
+          "address": "7863 Main St, berkeley, CA",
+          "inspector_type": "commercial_building",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "multi-family inspection berkeley California"
+        },
+        {
+          "business_name": "berkeley Commercial 2",
+          "phone": "(415) 882-2195",
+          "website": "https://example-commercial_building-2.com",
+          "address": "9245 Main St, berkeley, CA",
+          "inspector_type": "commercial_building",
+          "city": "berkeley",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "multi-family inspection berkeley California"
+        }
+      ]
+    }
+  },
+  "completion_status": "completed",
+  "start_time": 1753698363455,
+  "completion_percentage": "134.5"
+}

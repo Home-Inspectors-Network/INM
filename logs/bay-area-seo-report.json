@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2025-08-06T07:22:11.972Z",
+  "cities": [
+    {
+      "city": "San Leandro",
+      "county": "Alameda County",
+      "inspectorCount": 1,
+      "slug": "san-leandro-ca-home-inspectors"
+    },
+    {
+      "city": "Berkeley",
+      "county": "Alameda County",
+      "inspectorCount": 3,
+      "slug": "berkeley-ca-home-inspectors"
+    },
+    {
+      "city": "El Cerrito",
+      "county": "Contra Costa County",
+      "inspectorCount": 1,
+      "slug": "el-cerrito-ca-home-inspectors"
+    },
+    {
+      "city": "San Francisco",
+      "county": "San Francisco County",
+      "inspectorCount": 18,
+      "slug": "san-francisco-ca-home-inspectors"
+    },
+    {
+      "city": "San Jose",
+      "county": "Santa Clara County",
+      "inspectorCount": 16,
+      "slug": "san-jose-ca-home-inspectors"
+    },
+    {
+      "city": "Oakland",
+      "county": "Alameda County",
+      "inspectorCount": 7,
+      "slug": "oakland-ca-home-inspectors"
+    },
+    {
+      "city": "Palo Alto",
+      "county": "Santa Clara County",
+      "inspectorCount": 11,
+      "slug": "palo-alto-ca-home-inspectors"
+    },
+    {
+      "city": "Mountain View",
+      "county": "Santa Clara County",
+      "inspectorCount": 2,
+      "slug": "mountain-view-ca-home-inspectors"
+    },
+    {
+      "city": "San Mateo",
+      "county": "San Mateo County",
+      "inspectorCount": 1,
+      "slug": "san-mateo-ca-home-inspectors"
+    },
+    {
+      "city": "Fremont",
+      "county": "Alameda County",
+      "inspectorCount": 10,
+      "slug": "fremont-ca-home-inspectors"
+    },
+    {
+      "city": "Richmond",
+      "county": "Contra Costa County",
+      "inspectorCount": 5,
+      "slug": "richmond-ca-home-inspectors"
+    },
+    {
+      "city": "Hayward",
+      "county": "Alameda County",
+      "inspectorCount": 2,
+      "slug": "hayward-ca-home-inspectors"
+    },
+    {
+      "city": "Concord",
+      "county": "Contra Costa County",
+      "inspectorCount": 14,
+      "slug": "concord-ca-home-inspectors"
+    },
+    {
+      "city": "Oakley",
+      "county": "Contra Costa County",
+      "inspectorCount": 1,
+      "slug": "oakley-ca-home-inspectors"
+    },
+    {
+      "city": "Walnut Creek",
+      "county": "Contra Costa County",
+      "inspectorCount": 1,
+      "slug": "walnut-creek-ca-home-inspectors"
+    },
+    {
+      "city": "Redwood City",
+      "county": "San Mateo County",
+      "inspectorCount": 2,
+      "slug": "redwood-city-ca-home-inspectors"
+    },
+    {
+      "city": "Clayton",
+      "county": "Contra Costa County",
+      "inspectorCount": 1,
+      "slug": "clayton-ca-home-inspectors"
+    },
+    {
+      "city": "San Rafael",
+      "county": "Marin County",
+      "inspectorCount": 1,
+      "slug": "san-rafael-ca-home-inspectors"
+    },
+    {
+      "city": "Burlingame",
+      "county": "San Mateo County",
+      "inspectorCount": 1,
+      "slug": "burlingame-ca-home-inspectors"
+    }
+  ],
+  "failed": [],
+  "totalInspectors": 98,
+  "googleMapsApiUsed": true
+}

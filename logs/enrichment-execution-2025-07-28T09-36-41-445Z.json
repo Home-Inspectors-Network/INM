@@ -1,0 +1,31 @@
+{
+  "started_at": "2025-07-28T09:36:39.068Z",
+  "phases": [
+    {
+      "name": "Schema Validation",
+      "started_at": "2025-07-28T09:36:39.069Z",
+      "duration_seconds": 0,
+      "success": false,
+      "results": null,
+      "error": "Schema validation failed. Manual intervention required.",
+      "completed_at": "2025-07-28T09:36:41.445Z"
+    }
+  ],
+  "metrics": {},
+  "errors": [
+    {
+      "timestamp": "2025-07-28T09:36:41.445Z",
+      "error": "Schema validation failed. Manual intervention required.",
+      "stack": "Error: Schema validation failed. Manual intervention required.\n    at /Users/chris/2org-inspectorsnearme/scripts/execute-palo-alto-enrichment.js:45:17\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async EnrichmentOrchestrator.executePhase (/Users/chris/2org-inspectorsnearme/scripts/execute-palo-alto-enrichment.js:123:23)\n    at async EnrichmentOrchestrator.executeComprehensiveEnrichment (/Users/chris/2org-inspectorsnearme/scripts/execute-palo-alto-enrichment.js:38:7)\n    at async main (/Users/chris/2org-inspectorsnearme/scripts/execute-palo-alto-enrichment.js:316:5)"
+    }
+  ],
+  "completed_at": null,
+  "summary": {
+    "total_duration_seconds": 0,
+    "total_duration_minutes": 0,
+    "successful_phases": 0,
+    "total_phases": 1,
+    "success_rate": "0%",
+    "overall_success": false
+  }
+}

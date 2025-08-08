@@ -1,0 +1,237 @@
+{
+  "timestamp": "2025-08-07T05:36:33.563Z",
+  "summary": {
+    "pagesScanned": 25,
+    "workingPages": 25,
+    "brokenPages": 0,
+    "apisWorking": 2,
+    "apisBroken": 1,
+    "inspectorProfilesWorking": 0,
+    "inspectorProfilesBroken": 0,
+    "formsWorking": 2,
+    "formsBroken": 1,
+    "averageLoadTime": 107.12,
+    "slowPages": 0,
+    "seoIssues": 0
+  },
+  "details": {
+    "pages": {
+      "total": 0,
+      "working": [
+        {
+          "url": "http://localhost:3000/ca-home-inspectors",
+          "type": "state-overview",
+          "state": "California",
+          "loadTime": 508
+        },
+        {
+          "url": "http://localhost:3000/ny-home-inspectors",
+          "type": "state-overview",
+          "state": "New York",
+          "loadTime": 169
+        },
+        {
+          "url": "http://localhost:3000/tx-home-inspectors",
+          "type": "state-overview",
+          "state": "Texas",
+          "loadTime": 168
+        },
+        {
+          "url": "http://localhost:3000/fl-home-inspectors",
+          "type": "state-overview",
+          "state": "Florida",
+          "loadTime": 165
+        },
+        {
+          "url": "http://localhost:3000/il-home-inspectors",
+          "type": "state-overview",
+          "state": "Illinois",
+          "loadTime": 181
+        },
+        {
+          "url": "http://localhost:3000/pa-home-inspectors",
+          "type": "state-overview",
+          "state": "Pennsylvania",
+          "loadTime": 150
+        },
+        {
+          "url": "http://localhost:3000/az-home-inspectors",
+          "type": "state-overview",
+          "state": "Arizona",
+          "loadTime": 177
+        },
+        {
+          "url": "http://localhost:3000/wa-home-inspectors",
+          "type": "state-overview",
+          "state": "Washington",
+          "loadTime": 185
+        },
+        {
+          "url": "http://localhost:3000/ma-home-inspectors",
+          "type": "state-overview",
+          "state": "Massachusetts",
+          "loadTime": 137
+        },
+        {
+          "url": "http://localhost:3000/co-home-inspectors",
+          "type": "state-overview",
+          "state": "Colorado",
+          "loadTime": 140
+        },
+        {
+          "url": "http://localhost:3000/ca/san-francisco",
+          "type": "city",
+          "location": "San Francisco, CA",
+          "loadTime": 119
+        },
+        {
+          "url": "http://localhost:3000/ca/los-angeles",
+          "type": "city",
+          "location": "Los Angeles, CA",
+          "loadTime": 8
+        },
+        {
+          "url": "http://localhost:3000/ca/san-diego",
+          "type": "city",
+          "location": "San Diego, CA",
+          "loadTime": 8
+        },
+        {
+          "url": "http://localhost:3000/ca/san-jose",
+          "type": "city",
+          "location": "San Jose, CA",
+          "loadTime": 6
+        },
+        {
+          "url": "http://localhost:3000/ny/new-york",
+          "type": "city",
+          "location": "New York, NY",
+          "loadTime": 158
+        },
+        {
+          "url": "http://localhost:3000/ny/buffalo",
+          "type": "city",
+          "location": "Buffalo, NY",
+          "loadTime": 10
+        },
+        {
+          "url": "http://localhost:3000/tx/houston",
+          "type": "city",
+          "location": "Houston, TX",
+          "loadTime": 84
+        },
+        {
+          "url": "http://localhost:3000/tx/dallas",
+          "type": "city",
+          "location": "Dallas, TX",
+          "loadTime": 58
+        },
+        {
+          "url": "http://localhost:3000/tx/austin",
+          "type": "city",
+          "location": "Austin, TX",
+          "loadTime": 9
+        },
+        {
+          "url": "http://localhost:3000/fl/miami",
+          "type": "city",
+          "location": "Miami, FL",
+          "loadTime": 96
+        },
+        {
+          "url": "http://localhost:3000/fl/orlando",
+          "type": "city",
+          "location": "Orlando, FL",
+          "loadTime": 10
+        },
+        {
+          "url": "http://localhost:3000/il/chicago",
+          "type": "city",
+          "location": "Chicago, IL",
+          "loadTime": 58
+        },
+        {
+          "url": "http://localhost:3000/pa/philadelphia",
+          "type": "city",
+          "location": "Philadelphia, PA",
+          "loadTime": 60
+        },
+        {
+          "url": "http://localhost:3000/az/phoenix",
+          "type": "city",
+          "location": "Phoenix, AZ",
+          "loadTime": 8
+        },
+        {
+          "url": "http://localhost:3000/wa/seattle",
+          "type": "city",
+          "location": "Seattle, WA",
+          "loadTime": 6
+        }
+      ],
+      "broken": [],
+      "slow": []
+    },
+    "apis": {
+      "total": 0,
+      "working": [
+        {
+          "name": "Inspector reviews",
+          "url": "http://localhost:3000/api/inspectors/1/reviews",
+          "status": 200
+        },
+        {
+          "name": "Stripe webhook",
+          "url": "http://localhost:3000/api/stripe/webhook",
+          "status": 200
+        }
+      ],
+      "broken": [
+        {
+          "name": "Create subscription",
+          "url": "http://localhost:3000/api/stripe/create-subscription",
+          "status": 400
+        }
+      ]
+    },
+    "inspectorProfiles": {
+      "tested": [],
+      "working": 0,
+      "broken": 0
+    },
+    "forms": {
+      "tested": [
+        {
+          "name": "Search by city",
+          "success": true,
+          "status": 200
+        },
+        {
+          "name": "Search by ZIP",
+          "success": true,
+          "status": 200
+        },
+        {
+          "name": "Lead submission",
+          "success": false,
+          "error": "Request failed with status code 400"
+        }
+      ],
+      "working": 2,
+      "broken": 1
+    },
+    "seo": {
+      "missingMeta": [],
+      "missingH1": [],
+      "multipleH1": []
+    },
+    "performance": {
+      "slowPages": [],
+      "averageLoadTime": 107.12
+    },
+    "accessibility": {
+      "missingAltText": [],
+      "missingLabels": []
+    }
+  }
+}

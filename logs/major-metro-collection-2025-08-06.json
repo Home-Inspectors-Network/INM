@@ -1,0 +1,99 @@
+{
+  "collectionDate": "2025-08-06T21:25:41.068Z",
+  "metros": [
+    {
+      "name": "New York Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Chicago Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Houston Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Dallas Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Philadelphia Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Washington DC Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Miami Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Atlanta Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Boston Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Phoenix Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    },
+    {
+      "name": "Seattle Metro",
+      "searched": 0,
+      "found": 10,
+      "saved": 0,
+      "enriched": 10,
+      "completionRate": 0
+    }
+  ],
+  "totals": {
+    "inspectorsSaved": 0,
+    "inspectorsEnriched": 0,
+    "metrosProcessed": 11
+  },
+  "sampleInspectors": []
+}

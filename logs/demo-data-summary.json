@@ -1,0 +1,44 @@
+{
+  "total_inspectors": 184,
+  "by_state": {
+    "AL": 44,
+    "CO": 38,
+    "GA": 41,
+    "ID": 31,
+    "MI": 30
+  },
+  "by_certification": {
+    "NAHI": 16,
+    "CREIA": 16,
+    "Licensed": 46,
+    "AHIT": 13,
+    "ASHI": 59,
+    "InterNACHI": 59,
+    "Certified": 20,
+    "ICC": 35,
+    "NACHI": 22,
+    "IAEI": 13
+  },
+  "by_service": {
+    "Home Inspection": 112,
+    "Mold Testing": 23,
+    "Termite Inspection": 23,
+    "Foundation Inspection": 12,
+    "Pool Inspection": 17,
+    "HVAC Inspection": 17,
+    "Property Inspection": 35,
+    "Septic Inspection": 17,
+    "Well Water Testing": 18,
+    "Residential Inspection": 37,
+    "Electrical Inspection": 23,
+    "Plumbing Inspection": 25,
+    "Radon Testing": 17,
+    "Roof Inspection": 18,
+    "New Construction Inspection": 14
+  },
+  "avg_years_experience": 13.23913043478261,
+  "phone_coverage": "100.0",
+  "email_coverage": "100.0",
+  "website_coverage": "77.2",
+  "insurance_verified": "73.4"
+}

@@ -1,0 +1,1276 @@
+{
+  "stats": {
+    "total_processed": 50,
+    "total_collected": 0,
+    "cities_completed": 5,
+    "errors": [],
+    "start_time": "2025-08-08T04:26:59.446Z"
+  },
+  "inspectors": [
+    {
+      "business_name": "Quality Indoor Air Quality Professionals",
+      "owner_name": null,
+      "email": null,
+      "phone": "(917) 423-3067",
+      "website": "https://www.quality-indoor-air-quality-professionals.com",
+      "address_street": "5765 Business Way",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "85484",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "CMI",
+        "EPA Certified"
+      ],
+      "years_in_business": 7,
+      "insurance_verified": true,
+      "license_number": "NY-MLD-290472"
+    },
+    {
+      "business_name": "Accurate Mold Detection Professionals",
+      "owner_name": "James Smith",
+      "email": "info@yahoo.com",
+      "phone": "(646) 576-7248",
+      "website": "https://www.accurate-mold-detection-professionals.com",
+      "address_street": "9397 Cedar Street, Suite 271",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "14872",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "NORMI",
+        "CIE",
+        "CMR"
+      ],
+      "years_in_business": 15,
+      "insurance_verified": true,
+      "license_number": "NY-MLD-811642"
+    },
+    {
+      "business_name": "NYC Mold Assessment Group",
+      "owner_name": null,
+      "email": null,
+      "phone": "(646) 349-3498",
+      "website": "https://www.nyc-mold-assessment-group.com",
+      "address_street": "2566 Oak Parkway",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "65891",
+      "services": [
+        "Mold Inspection",
+        "Environmental Testing",
+        "Residential Mold Inspection",
+        "Commercial Mold Inspection"
+      ],
+      "certifications": [
+        "CMI",
+        "IICRC"
+      ],
+      "years_in_business": 23,
+      "insurance_verified": true,
+      "license_number": "NY-MLD-782860"
+    },
+    {
+      "business_name": "Premier Mold Assessment Consultants",
+      "owner_name": "Linda Jones",
+      "email": null,
+      "phone": "(646) 988-2181",
+      "website": "https://www.premier-mold-assessment-consultants.com",
+      "address_street": "4168 Main Street, Suite 113",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "69884",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Mold Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "CIE",
+        "EPA Certified"
+      ],
+      "years_in_business": 7,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Complete Mold Testing Professionals",
+      "owner_name": "Michael Miller",
+      "email": "info@outlook.com",
+      "phone": "(718) 493-5837",
+      "website": "https://www.complete-mold-testing-professionals.com",
+      "address_street": "2402 Cedar Parkway, Suite 311",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "67412",
+      "services": [
+        "Mold Inspection",
+        "Black Mold Testing",
+        "Post-Remediation Testing"
+      ],
+      "certifications": [
+        "EPA Certified",
+        "CMR",
+        "ACAC"
+      ],
+      "years_in_business": 23,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Advanced Air Quality Solutions Experts",
+      "owner_name": null,
+      "email": null,
+      "phone": "(646) 887-1854",
+      "website": "https://www.advanced-air-quality-solutions-experts.com",
+      "address_street": "3673 Broadway Street, Suite 141",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "96455",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Commercial Mold Inspection",
+        "Moisture Testing",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "CIAQP",
+        "Insured",
+        "Licensed"
+      ],
+      "years_in_business": 19,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Complete Mold Detection Group",
+      "owner_name": null,
+      "email": "info@completemolddet.com",
+      "phone": "(917) 296-6233",
+      "website": null,
+      "address_street": "5535 Main Boulevard",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "84144",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Moisture Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "State Licensed",
+        "MICRO",
+        "CIE",
+        "NORMI"
+      ],
+      "years_in_business": 21,
+      "insurance_verified": false,
+      "license_number": null
+    },
+    {
+      "business_name": "Professional Indoor Air Quality of NYC",
+      "owner_name": "Robert Jones",
+      "email": "info@gmail.com",
+      "phone": "(917) 848-4829",
+      "website": null,
+      "address_street": "3296 Pine Avenue",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "28879",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Moisture Testing",
+        "Mold Testing",
+        "Black Mold Testing",
+        "Residential Mold Inspection"
+      ],
+      "certifications": [
+        "Insured",
+        "CIAQP",
+        "MICRO",
+        "CMR"
+      ],
+      "years_in_business": 12,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Reliable Mold Analysis Labs",
+      "owner_name": null,
+      "email": null,
+      "phone": "(646) 176-6690",
+      "website": "https://www.reliable-mold-analysis-labs.com",
+      "address_street": "6955 Elm Road, Suite 172",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "20606",
+      "services": [
+        "Mold Inspection",
+        "Mold Testing",
+        "Indoor Air Quality Testing",
+        "Commercial Mold Inspection",
+        "Black Mold Testing",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "IICRC",
+        "CIAQP",
+        "CIE"
+      ],
+      "years_in_business": 16,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Reliable Mold Assessment of NYC",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(917) 337-3469",
+      "website": "https://www.reliable-mold-assessment-of-nyc.com",
+      "address_street": "9804 Maple Parkway",
+      "address_city": "New York City",
+      "address_state": "NY",
+      "address_zip": "87670",
+      "services": [
+        "Mold Inspection",
+        "Black Mold Testing",
+        "Commercial Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Post-Remediation Testing",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "Insured",
+        "NORMI",
+        "Certified"
+      ],
+      "years_in_business": 19,
+      "insurance_verified": true,
+      "license_number": "NY-MLD-996752"
+    },
+    {
+      "business_name": "LA Air Quality Solutions Testing",
+      "owner_name": null,
+      "email": "info@gmail.com",
+      "phone": "(424) 136-7195",
+      "website": "https://www.la-air-quality-solutions-testing.com",
+      "address_street": "3046 Main Boulevard",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "48153",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "MICRO",
+        "EPA Certified",
+        "NORMI",
+        "CIAQP"
+      ],
+      "years_in_business": 24,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-134901"
+    },
+    {
+      "business_name": "Professional IAQ Testing of LA",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(213) 300-7643",
+      "website": "https://www.professional-iaq-testing-of-la.com",
+      "address_street": "9545 Washington Street",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "35942",
+      "services": [
+        "Mold Inspection",
+        "Moisture Testing",
+        "Residential Mold Inspection"
+      ],
+      "certifications": [
+        "CMI",
+        "Licensed"
+      ],
+      "years_in_business": 23,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-345477"
+    },
+    {
+      "business_name": "Trusted IAQ Testing of LA",
+      "owner_name": null,
+      "email": "info@trustediaqtesti.com",
+      "phone": "(310) 675-2087",
+      "website": "https://www.trusted-iaq-testing-of-la.com",
+      "address_street": "9952 Business Avenue",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "15236",
+      "services": [
+        "Mold Inspection",
+        "Mold Testing",
+        "Commercial Mold Inspection"
+      ],
+      "certifications": [
+        "State Licensed",
+        "CMR"
+      ],
+      "years_in_business": 22,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-481360"
+    },
+    {
+      "business_name": "LA Mold Detection Labs",
+      "owner_name": null,
+      "email": "info@lamolddetection.com",
+      "phone": "(310) 466-5632",
+      "website": "https://www.la-mold-detection-labs.com",
+      "address_street": "3554 Maple Parkway",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "96398",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Black Mold Testing",
+        "Post-Remediation Testing",
+        "Moisture Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "MICRO",
+        "ACAC",
+        "IICRC"
+      ],
+      "years_in_business": 23,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-811551"
+    },
+    {
+      "business_name": "Premier Indoor Air Quality Solutions",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(424) 873-1379",
+      "website": null,
+      "address_street": "7100 Washington Place",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "33674",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Environmental Testing",
+        "Post-Remediation Testing",
+        "Moisture Testing",
+        "Mold Testing"
+      ],
+      "certifications": [
+        "ACAC",
+        "CIAQP"
+      ],
+      "years_in_business": 7,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-972020"
+    },
+    {
+      "business_name": "Reliable Mold Detection Testing",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(310) 663-8077",
+      "website": "https://www.reliable-mold-detection-testing.com",
+      "address_street": "9312 Cedar Boulevard",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "57679",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Mold Testing",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "CMR",
+        "CIAQP"
+      ],
+      "years_in_business": 12,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-775394"
+    },
+    {
+      "business_name": "Professional Mold Assessment of LA",
+      "owner_name": "John Brown",
+      "email": null,
+      "phone": "(424) 156-1604",
+      "website": "https://www.professional-mold-assessment-of-la.com",
+      "address_street": "7938 Oak Boulevard",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "78963",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Commercial Mold Inspection",
+        "Moisture Testing",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "Insured",
+        "Certified"
+      ],
+      "years_in_business": 6,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "LA Mold Detection Solutions",
+      "owner_name": null,
+      "email": null,
+      "phone": "(424) 740-6132",
+      "website": "https://www.la-mold-detection-solutions.com",
+      "address_street": "2914 Industrial Road, Suite 215",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "97148",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Post-Remediation Testing",
+        "Residential Mold Inspection",
+        "Moisture Testing",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "IICRC",
+        "MICRO",
+        "CIAQP"
+      ],
+      "years_in_business": 12,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-846713"
+    },
+    {
+      "business_name": "LA Mold Inspection Experts",
+      "owner_name": null,
+      "email": "info@gmail.com",
+      "phone": "(213) 969-9415",
+      "website": null,
+      "address_street": "2882 Oak Avenue",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "92411",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Mold Testing",
+        "Post-Remediation Testing",
+        "Commercial Mold Inspection"
+      ],
+      "certifications": [
+        "EPA Certified",
+        "CIE",
+        "State Licensed",
+        "Licensed"
+      ],
+      "years_in_business": 12,
+      "insurance_verified": true,
+      "license_number": "CA-MLD-671058"
+    },
+    {
+      "business_name": "Expert Environmental Testing of LA",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(424) 638-4486",
+      "website": "https://www.expert-environmental-testing-of-la.com",
+      "address_street": "7427 Oak Way, Suite 259",
+      "address_city": "Los Angeles",
+      "address_state": "CA",
+      "address_zip": "18759",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Black Mold Testing",
+        "Moisture Testing",
+        "Environmental Testing",
+        "Residential Mold Inspection"
+      ],
+      "certifications": [
+        "MICRO",
+        "State Licensed",
+        "ACAC"
+      ],
+      "years_in_business": 9,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Chicago Environmental Health Testing",
+      "owner_name": null,
+      "email": "info@chicagoenvironm.com",
+      "phone": "(312) 715-3930",
+      "website": "https://www.chicago-environmental-health-testing.com",
+      "address_street": "6489 Broadway Avenue, Suite 163",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "38291",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Indoor Air Quality Testing",
+        "Residential Mold Inspection",
+        "Mold Testing",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "Certified",
+        "Insured"
+      ],
+      "years_in_business": 13,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-570967"
+    },
+    {
+      "business_name": "Expert Indoor Air Quality of Chicago",
+      "owner_name": "Barbara Williams",
+      "email": "info@expertindoorair.com",
+      "phone": "(312) 381-2928",
+      "website": "https://www.expert-indoor-air-quality-of-chicago.com",
+      "address_street": "3613 Main Parkway",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "31884",
+      "services": [
+        "Mold Inspection",
+        "Black Mold Testing",
+        "Commercial Mold Inspection",
+        "Environmental Testing",
+        "Moisture Testing",
+        "Indoor Air Quality Testing"
+      ],
+      "certifications": [
+        "NORMI",
+        "Insured",
+        "Licensed"
+      ],
+      "years_in_business": 14,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Trusted Mold Inspection Consultants",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(773) 425-9112",
+      "website": "https://www.trusted-mold-inspection-consultants.com",
+      "address_street": "5782 Commercial Drive, Suite 246",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "64892",
+      "services": [
+        "Mold Inspection",
+        "Environmental Testing",
+        "Residential Mold Inspection",
+        "Post-Remediation Testing"
+      ],
+      "certifications": [
+        "Licensed",
+        "Insured"
+      ],
+      "years_in_business": 18,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-225147"
+    },
+    {
+      "business_name": "Trusted Mold Assessment of Chicago",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(312) 944-4937",
+      "website": "https://www.trusted-mold-assessment-of-chicago.com",
+      "address_street": "8391 Main Drive",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "81955",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Commercial Mold Inspection",
+        "Mold Testing",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "CIAQP",
+        "MICRO"
+      ],
+      "years_in_business": 7,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Expert Air Quality Solutions of Chicago",
+      "owner_name": null,
+      "email": "info@expertairqualit.com",
+      "phone": "(773) 387-3519",
+      "website": "https://www.expert-air-quality-solutions-of-chicago.com",
+      "address_street": "7918 Broadway Drive",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "77780",
+      "services": [
+        "Mold Inspection",
+        "Mold Testing",
+        "Indoor Air Quality Testing",
+        "Black Mold Testing",
+        "Moisture Testing",
+        "Residential Mold Inspection"
+      ],
+      "certifications": [
+        "IICRC",
+        "EPA Certified"
+      ],
+      "years_in_business": 20,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-297152"
+    },
+    {
+      "business_name": "Expert Air Quality Solutions Testing",
+      "owner_name": "Jennifer Jones",
+      "email": "info@outlook.com",
+      "phone": "(872) 276-3327",
+      "website": null,
+      "address_street": "4625 Business Parkway, Suite 355",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "25202",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Moisture Testing",
+        "Post-Remediation Testing"
+      ],
+      "certifications": [
+        "CMI",
+        "Certified",
+        "Licensed",
+        "CMR"
+      ],
+      "years_in_business": 10,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-960371"
+    },
+    {
+      "business_name": "Advanced Air Quality Solutions of Chicago",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(773) 932-4261",
+      "website": "https://www.advanced-air-quality-solutions-of-chicago.com",
+      "address_street": "9334 Washington Parkway",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "58024",
+      "services": [
+        "Mold Inspection",
+        "Environmental Testing",
+        "Mold Testing",
+        "Indoor Air Quality Testing",
+        "Moisture Testing",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "NORMI",
+        "CMR",
+        "Certified"
+      ],
+      "years_in_business": 18,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-915989"
+    },
+    {
+      "business_name": "Advanced Mold Analysis Associates",
+      "owner_name": null,
+      "email": "info@advancedmoldana.com",
+      "phone": "(872) 845-9544",
+      "website": "https://www.advanced-mold-analysis-associates.com",
+      "address_street": "9378 Oak Parkway",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "62802",
+      "services": [
+        "Mold Inspection",
+        "Moisture Testing",
+        "Residential Mold Inspection",
+        "Post-Remediation Testing"
+      ],
+      "certifications": [
+        "CMI",
+        "Certified"
+      ],
+      "years_in_business": 21,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-376060"
+    },
+    {
+      "business_name": "Chicago Mold Inspection Group",
+      "owner_name": "David Johnson",
+      "email": "info@yahoo.com",
+      "phone": "(773) 380-9302",
+      "website": "https://www.chicago-mold-inspection-group.com",
+      "address_street": "6793 Park Boulevard",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "43482",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Mold Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "CMR",
+        "MICRO",
+        "State Licensed",
+        "EPA Certified"
+      ],
+      "years_in_business": 11,
+      "insurance_verified": true,
+      "license_number": "IL-MLD-704204"
+    },
+    {
+      "business_name": "Certified Indoor Air Quality of Chicago",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(773) 887-1830",
+      "website": null,
+      "address_street": "6820 Park Avenue",
+      "address_city": "Chicago",
+      "address_state": "IL",
+      "address_zip": "39679",
+      "services": [
+        "Mold Inspection",
+        "Moisture Testing",
+        "Indoor Air Quality Testing",
+        "Post-Remediation Testing",
+        "Mold Testing"
+      ],
+      "certifications": [
+        "CMR",
+        "Insured"
+      ],
+      "years_in_business": 23,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Quality Mold Analysis Consultants",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(832) 642-3849",
+      "website": "https://www.quality-mold-analysis-consultants.com",
+      "address_street": "8009 Broadway Way",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "30205",
+      "services": [
+        "Mold Inspection",
+        "Moisture Testing",
+        "Mold Testing"
+      ],
+      "certifications": [
+        "State Licensed",
+        "NORMI",
+        "IICRC"
+      ],
+      "years_in_business": 7,
+      "insurance_verified": true,
+      "license_number": "TX-MLD-117251"
+    },
+    {
+      "business_name": "Reliable Environmental Health of Houston",
+      "owner_name": "David Johnson",
+      "email": "info@yahoo.com",
+      "phone": "(713) 861-2924",
+      "website": "https://www.reliable-environmental-health-of-houston.com",
+      "address_street": "5802 Commercial Parkway",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "15375",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "MICRO",
+        "EPA Certified",
+        "ACAC"
+      ],
+      "years_in_business": 14,
+      "insurance_verified": true,
+      "license_number": "TX-MLD-189731"
+    },
+    {
+      "business_name": "Trusted IAQ Testing of Houston",
+      "owner_name": "David Martinez",
+      "email": "info@yahoo.com",
+      "phone": "(713) 414-6595",
+      "website": "https://www.trusted-iaq-testing-of-houston.com",
+      "address_street": "4027 Professional Avenue",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "64632",
+      "services": [
+        "Mold Inspection",
+        "Black Mold Testing",
+        "Post-Remediation Testing"
+      ],
+      "certifications": [
+        "CMR",
+        "Certified",
+        "Insured",
+        "EPA Certified"
+      ],
+      "years_in_business": 21,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Complete Mold Detection Experts",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(832) 214-2953",
+      "website": "https://www.complete-mold-detection-experts.com",
+      "address_street": "8753 Main Road",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "12442",
+      "services": [
+        "Mold Inspection",
+        "Mold Testing",
+        "Residential Mold Inspection"
+      ],
+      "certifications": [
+        "Licensed",
+        "NORMI",
+        "EPA Certified",
+        "ACAC"
+      ],
+      "years_in_business": 5,
+      "insurance_verified": false,
+      "license_number": "TX-MLD-374666"
+    },
+    {
+      "business_name": "Houston Air Quality Solutions Professionals",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(281) 977-1216",
+      "website": "https://www.houston-air-quality-solutions-professionals.com",
+      "address_street": "9906 Market Avenue",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "66380",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Residential Mold Inspection",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "CIAQP",
+        "State Licensed",
+        "MICRO",
+        "Licensed"
+      ],
+      "years_in_business": 13,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Trusted Mold Detection Services",
+      "owner_name": null,
+      "email": "info@gmail.com",
+      "phone": "(832) 600-9099",
+      "website": "https://www.trusted-mold-detection-services.com",
+      "address_street": "9279 Industrial Avenue, Suite 343",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "44946",
+      "services": [
+        "Mold Inspection",
+        "Moisture Testing",
+        "Environmental Testing",
+        "Post-Remediation Testing"
+      ],
+      "certifications": [
+        "ACAC",
+        "Certified"
+      ],
+      "years_in_business": 6,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Complete IAQ Testing of Houston",
+      "owner_name": "Mary Williams",
+      "email": "info@outlook.com",
+      "phone": "(713) 889-7696",
+      "website": null,
+      "address_street": "6283 Industrial Avenue, Suite 179",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "39109",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Indoor Air Quality Testing",
+        "Commercial Mold Inspection"
+      ],
+      "certifications": [
+        "CIAQP",
+        "State Licensed",
+        "Insured"
+      ],
+      "years_in_business": 21,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Houston IAQ Testing Associates",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(281) 197-6811",
+      "website": "https://www.houston-iaq-testing-associates.com",
+      "address_street": "4716 Maple Drive, Suite 212",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "31531",
+      "services": [
+        "Mold Inspection",
+        "Mold Testing",
+        "Indoor Air Quality Testing",
+        "Moisture Testing",
+        "Residential Mold Inspection",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "Certified",
+        "CIE",
+        "CMI"
+      ],
+      "years_in_business": 11,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Quality Environmental Health Services",
+      "owner_name": "Jennifer Rodriguez",
+      "email": "info@yahoo.com",
+      "phone": "(281) 206-9356",
+      "website": "https://www.quality-environmental-health-services.com",
+      "address_street": "6966 Professional Place",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "30715",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Black Mold Testing",
+        "Residential Mold Inspection",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "Licensed",
+        "Insured",
+        "EPA Certified"
+      ],
+      "years_in_business": 5,
+      "insurance_verified": true,
+      "license_number": "TX-MLD-679729"
+    },
+    {
+      "business_name": "Houston Indoor Air Quality Company",
+      "owner_name": "Mary Smith",
+      "email": "info@houstonindoorai.com",
+      "phone": "(281) 607-9184",
+      "website": "https://www.houston-indoor-air-quality-company.com",
+      "address_street": "6323 Industrial Place",
+      "address_city": "Houston",
+      "address_state": "TX",
+      "address_zip": "76939",
+      "services": [
+        "Mold Inspection",
+        "Black Mold Testing",
+        "Mold Testing"
+      ],
+      "certifications": [
+        "Insured",
+        "MICRO",
+        "IICRC",
+        "EPA Certified"
+      ],
+      "years_in_business": 22,
+      "insurance_verified": true,
+      "license_number": "TX-MLD-759799"
+    },
+    {
+      "business_name": "Phoenix Mold Detection Professionals",
+      "owner_name": null,
+      "email": "info@gmail.com",
+      "phone": "(602) 998-3366",
+      "website": "https://www.phoenix-mold-detection-professionals.com",
+      "address_street": "2863 Maple Place",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "20596",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "State Licensed",
+        "CMR"
+      ],
+      "years_in_business": 10,
+      "insurance_verified": true,
+      "license_number": "AZ-MLD-803427"
+    },
+    {
+      "business_name": "Phoenix Mold Assessment Group",
+      "owner_name": null,
+      "email": "info@yahoo.com",
+      "phone": "(623) 263-4683",
+      "website": "https://www.phoenix-mold-assessment-group.com",
+      "address_street": "1143 Cedar Boulevard, Suite 200",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "90325",
+      "services": [
+        "Mold Inspection",
+        "Commercial Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Environmental Testing",
+        "Mold Testing",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "Licensed",
+        "CMI",
+        "ACAC"
+      ],
+      "years_in_business": 22,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Phoenix Mold Analysis Services",
+      "owner_name": "Linda Garcia",
+      "email": "info@outlook.com",
+      "phone": "(480) 536-6336",
+      "website": "https://www.phoenix-mold-analysis-services.com",
+      "address_street": "5833 Oak Street",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "67661",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Black Mold Testing",
+        "Residential Mold Inspection",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "Insured",
+        "CIAQP"
+      ],
+      "years_in_business": 5,
+      "insurance_verified": true,
+      "license_number": "AZ-MLD-870606"
+    },
+    {
+      "business_name": "Quality Environmental Health of Phoenix",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(602) 713-8447",
+      "website": "https://www.quality-environmental-health-of-phoenix.com",
+      "address_street": "3812 Market Drive",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "86758",
+      "services": [
+        "Mold Inspection",
+        "Environmental Testing",
+        "Indoor Air Quality Testing"
+      ],
+      "certifications": [
+        "IICRC",
+        "Certified",
+        "ACAC"
+      ],
+      "years_in_business": 11,
+      "insurance_verified": false,
+      "license_number": "AZ-MLD-198529"
+    },
+    {
+      "business_name": "Advanced Mold Detection of Phoenix",
+      "owner_name": null,
+      "email": null,
+      "phone": "(602) 150-3307",
+      "website": "https://www.advanced-mold-detection-of-phoenix.com",
+      "address_street": "8697 Industrial Drive",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "58390",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Residential Mold Inspection",
+        "Post-Remediation Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "IICRC",
+        "State Licensed"
+      ],
+      "years_in_business": 11,
+      "insurance_verified": true,
+      "license_number": "AZ-MLD-884146"
+    },
+    {
+      "business_name": "Reliable IAQ Testing of Phoenix",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(602) 458-6791",
+      "website": "https://www.reliable-iaq-testing-of-phoenix.com",
+      "address_street": "6042 Broadway Way, Suite 145",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "75155",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Indoor Air Quality Testing",
+        "Moisture Testing",
+        "Mold Testing"
+      ],
+      "certifications": [
+        "Certified",
+        "CMI"
+      ],
+      "years_in_business": 10,
+      "insurance_verified": true,
+      "license_number": "AZ-MLD-739394"
+    },
+    {
+      "business_name": "Phoenix Air Quality Solutions Services",
+      "owner_name": "Patricia Martinez",
+      "email": "info@outlook.com",
+      "phone": "(602) 817-7241",
+      "website": "https://www.phoenix-air-quality-solutions-services.com",
+      "address_street": "8937 Pine Avenue, Suite 136",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "30949",
+      "services": [
+        "Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Mold Testing",
+        "Commercial Mold Inspection",
+        "Black Mold Testing"
+      ],
+      "certifications": [
+        "IICRC",
+        "CMR",
+        "State Licensed"
+      ],
+      "years_in_business": 17,
+      "insurance_verified": true,
+      "license_number": "AZ-MLD-473144"
+    },
+    {
+      "business_name": "Phoenix Mold Testing Solutions",
+      "owner_name": "Michael Rodriguez",
+      "email": null,
+      "phone": "(480) 921-8483",
+      "website": "https://www.phoenix-mold-testing-solutions.com",
+      "address_street": "2958 Elm Avenue",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "73969",
+      "services": [
+        "Mold Inspection",
+        "Environmental Testing",
+        "Moisture Testing"
+      ],
+      "certifications": [
+        "EPA Certified",
+        "IICRC",
+        "ACAC"
+      ],
+      "years_in_business": 24,
+      "insurance_verified": true,
+      "license_number": "AZ-MLD-424321"
+    },
+    {
+      "business_name": "Expert Indoor Air Quality Testing",
+      "owner_name": null,
+      "email": "info@outlook.com",
+      "phone": "(623) 973-1081",
+      "website": "https://www.expert-indoor-air-quality-testing.com",
+      "address_street": "5547 Pine Road",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "37635",
+      "services": [
+        "Mold Inspection",
+        "Residential Mold Inspection",
+        "Indoor Air Quality Testing",
+        "Environmental Testing"
+      ],
+      "certifications": [
+        "Certified",
+        "EPA Certified",
+        "CMR",
+        "Insured"
+      ],
+      "years_in_business": 15,
+      "insurance_verified": true,
+      "license_number": null
+    },
+    {
+      "business_name": "Phoenix Mold Assessment Company",
+      "owner_name": "Barbara Garcia",
+      "email": "info@outlook.com",
+      "phone": "(602) 556-4662",
+      "website": "https://www.phoenix-mold-assessment-company.com",
+      "address_street": "6489 Elm Avenue, Suite 180",
+      "address_city": "Phoenix",
+      "address_state": "AZ",
+      "address_zip": "95918",
+      "services": [
+        "Mold Inspection",
+        "Post-Remediation Testing",
+        "Commercial Mold Inspection"
+      ],
+      "certifications": [
+        "Insured",
+        "ACAC",
+        "CIE"
+      ],
+      "years_in_business": 21,
+      "insurance_verified": true,
+      "license_number": null
+    }
+  ],
+  "errors": []
+}

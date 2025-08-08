@@ -1,0 +1,33 @@
+# Robots.txt for InspectorsNearMe.com
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://inspectorsnearme.com/sitemap.xml
+Sitemap: https://inspectorsnearme.com/sitemap-index.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Block admin and API routes
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /logs/
+Disallow: /scripts/
+
+# Allow important directories
+Allow: /services/
+Allow: /inspectors/
+Allow: /blog/
+Allow: /sitemap.xml
+
+# Block search and filter parameters
+Disallow: /*?search=*
+Disallow: /*?filter=*
+Disallow: /*?page=*
+
+# SEO-friendly URLs are encouraged
+# City pages: /{city}-{state}-home-inspectors
+# Inspector profiles: /inspector/{id}
+# Services: /services/{service-type}

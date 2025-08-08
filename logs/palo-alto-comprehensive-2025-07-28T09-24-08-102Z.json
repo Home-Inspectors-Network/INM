@@ -1,0 +1,2204 @@
+{
+  "metadata": {
+    "location": {
+      "city": "Palo Alto",
+      "state": "CA",
+      "coordinates": {
+        "lat": 37.4419,
+        "lng": -122.143
+      }
+    },
+    "collected_at": "2025-07-28T09:24:08.102Z",
+    "total_inspectors": 72,
+    "categories_processed": 5,
+    "queries_executed": 14,
+    "api_calls": 153,
+    "duplicates_skipped": 67,
+    "errors": 0,
+    "duration_minutes": 1.35695,
+    "category_breakdown": {
+      "homeInspectors": 20,
+      "termitePest": 15,
+      "foundationStructural": 12,
+      "specialtyTesting": 15,
+      "commercialBuilding": 10
+    },
+    "data_quality": {
+      "phone_numbers": 71,
+      "websites": 55,
+      "coordinates": 72,
+      "location_verified": 72,
+      "phone_percentage": "98.6",
+      "website_percentage": "76.4",
+      "coordinate_percentage": "100.0",
+      "location_verified_percentage": "100.0"
+    }
+  },
+  "inspectors": [
+    {
+      "business_name": "MoldPro Inspection Palo Alto",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 518-7009",
+      "website": null,
+      "address_street": "1525 Middlefield Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4427179,
+      "lng": -122.1418832,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJzWSETwC7j4ARoOcqqxI5A98",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:47.895Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "California Healthy Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 828-4700",
+      "website": "http://www.ca-hh.com/",
+      "address_street": "1799 Old Bayshore Hwy Suite 241C",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.60225270000001,
+      "lng": -122.372253,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJSaB9MtZ3j4ARDA2ocAYnJJA",
+      "google_rating": 5,
+      "google_reviews_count": 243,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:48.277Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "CalPro Inspection Group",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 560-4634",
+      "website": "https://www.calprogroup.com/",
+      "address_street": "80 Gilman Ave Ste 2B",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.2858465,
+      "lng": -121.9397116,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJm1PVais1joARjOnFoY8IgBU",
+      "google_rating": 4.9,
+      "google_reviews_count": 249,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:48.651Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "All Bay Home Inspection Inc",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 858-2600",
+      "website": null,
+      "address_street": "Palo Alto",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4177563,
+      "lng": -122.1235054,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJVVVVVWG6j4ARKaxkoYcRdBg",
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:49.005Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Wells Home Inspection LLC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 533-6308",
+      "website": null,
+      "address_street": "4290 Wilkie Way F",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4087134,
+      "lng": -122.1185268,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ4yhV9A-7j4ARHfNmSf14zLM",
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:49.357Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Elite Home and Commercial Property Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(925) 922-4460",
+      "website": "https://elitehcpi.com/",
+      "address_street": "350 Main St Suite H8",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.6592941,
+      "lng": -121.8761402,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJBUnu3hvpj4ARdGl61hWuCCA",
+      "google_rating": 5,
+      "google_reviews_count": 39,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:49.736Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "MoldTeam Inspection Los Altos",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 472-5231",
+      "website": null,
+      "address_street": "2240 Homestead Ct",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3357838,
+      "lng": -122.066385,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJke0SBgC1j4ARXeHAlvRbYLc",
+      "google_rating": 5,
+      "google_reviews_count": 4,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:50.108Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Bay Area Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 515-3355",
+      "website": "http://www.bayareahomeinspections.com/",
+      "address_street": "551 25th Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7790515,
+      "lng": -122.4849569,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJP5sQzTZ-j4ARg7RQjk1oikY",
+      "google_rating": 5,
+      "google_reviews_count": 159,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:50.479Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "MoldTeam Inspection Los Altos",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 472-5229",
+      "website": null,
+      "address_street": "111 Plaza S",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3802422,
+      "lng": -122.1156608,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJE7l1FACxj4ARrP_CPI1_Was",
+      "google_rating": 5,
+      "google_reviews_count": 4,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:50.845Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Wayne Home Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 769-9619",
+      "website": "https://www.waynehomeinspection.com/",
+      "address_street": "20018 Knollwood Dr",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.2899128,
+      "lng": -122.0239293,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJDYUbQGXMGCYRuRG0iIwOAqY",
+      "google_rating": 5,
+      "google_reviews_count": 2,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:51.222Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "MoldTeam Inspection Menlo Park",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 507-4213",
+      "website": null,
+      "address_street": "1035 El Camino Real",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4529917,
+      "lng": -122.1824314,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ0QeYIgClj4AR7-z5d8rwUTA",
+      "google_rating": 5,
+      "google_reviews_count": 2,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:51.579Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Palo Alto Building Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 329-2496",
+      "website": "https://www.cityofpaloalto.org/Departments/Planning-Development-Services/Development-Services/Building-Division/Building-Inspection",
+      "address_street": "285 Hamilton Ave # 1",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4451005,
+      "lng": -122.1607792,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJrRb7gDm7j4ARMMhasnkc1jQ",
+      "google_rating": 2.8,
+      "google_reviews_count": 9,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:51.939Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Golden Gate Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 878-1331",
+      "website": "https://goldengatehomeinspections.com/",
+      "address_street": "201 Spear St #1100",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7913437,
+      "lng": -122.3928159,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJmZ9PUumBhYARMRZGZHsTfiw",
+      "google_rating": 5,
+      "google_reviews_count": 315,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:52.295Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "The House Whisperer LLC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(800) 662-8589",
+      "website": "https://eastbayhomeinspector.com/",
+      "address_street": "566 Escondido Cir",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.6662596,
+      "lng": -121.7915514,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJE34e3b_nj4ARcqQNsu4dIbw",
+      "google_rating": 5,
+      "google_reviews_count": 185,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:52.660Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Jeffrey Ferguson Inc",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 853-1139",
+      "website": null,
+      "address_street": "920 Palo Alto Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.45401269999999,
+      "lng": -122.1552231,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJRxSKA0G7j4AR8ZErCmkZdq0",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:55.914Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Keller Family Home Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 863-1939",
+      "website": null,
+      "address_street": "1943 Cedar St",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4904416,
+      "lng": -122.2509039,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJg1nLE3ch7WERkXg1eZ61qjs",
+      "google_rating": 5,
+      "google_reviews_count": 2,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:57.805Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Preferred Property Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 483-8699",
+      "website": "http://preferredpropertyinspection.net/",
+      "address_street": "2262 Carmelita Dr",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.50071639999999,
+      "lng": -122.2765155,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Property Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ2wkEq_qhj4AR2mBwhK61O-s",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:22:58.145Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Sequoia Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 295-2277",
+      "website": "https://www.sequoiahomeinspections.com/",
+      "address_street": "11 Lodge Ln",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.96575609999999,
+      "lng": -122.535322,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Home Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJPSLsCzwmUoYRUCNcnG_DAK8",
+      "google_rating": 5,
+      "google_reviews_count": 43,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:04.030Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Meissner Automotive",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 494-3804",
+      "website": "http://www.meissnerautomotive.com/",
+      "address_street": "811 E Charleston Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.42244600000001,
+      "lng": -122.1045992,
+      "certifications": [
+        "ICA"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJY1eSbBO6j4ARGmpr4P5Q5PY",
+      "google_rating": 4.9,
+      "google_reviews_count": 317,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:08.764Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "PALO ALTO AUTO CARE",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 494-1303",
+      "website": "http://www.paloauto.net/",
+      "address_street": "699 San Antonio Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4162583,
+      "lng": -122.1039115,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJw44r-Qy6j4ARpjfkOJZUF7E",
+      "google_rating": 4.8,
+      "google_reviews_count": 40,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Home Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:09.127Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Franz Termite Control",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 493-0445",
+      "website": "http://franztermite.com/",
+      "address_street": "4041 Transport St",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4255448,
+      "lng": -122.0994791,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJk8mAtha6j4ARxPolZe4Eo3Y",
+      "google_rating": 3.7,
+      "google_reviews_count": 11,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:13.817Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Terminix",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 285-6739",
+      "website": "https://www.terminix.com/exterminators/ca/menlo-park-212451/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=satellite_212451&utm_term=menlopark",
+      "address_street": "1185 El Camino Real",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4539768,
+      "lng": -122.1842611,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJwUMoNCqlj4ARV8Gxe_4e7JM",
+      "google_rating": 4.8,
+      "google_reviews_count": 23,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:14.188Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "PURCOR Pest Solutions",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 820-9562",
+      "website": "https://www.purcorpest.com/service-areas/california/redwood-city-ca/?utm_source=GBPListings&utm_medium=organic&utm_campaign=donovans-redwood-city",
+      "address_street": "639 Bair Island Rd Suite 107",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.49747660000001,
+      "lng": -122.2257541,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJAQAAAASfj4ARZPJDX1GomgA",
+      "google_rating": 4.6,
+      "google_reviews_count": 113,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:14.548Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Vanguard Termite Control Inc",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 557-4918",
+      "website": "https://www.vanguardtermite.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9071499369233079006",
+      "address_street": "3102 Rolison Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.486051,
+      "lng": -122.197818,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJSWXJU9f6yC4RKbHOVXqod8A",
+      "google_rating": 4.9,
+      "google_reviews_count": 86,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:14.893Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "J & M Termite Control Inc",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 969-5556",
+      "website": "http://jmtermite.com/",
+      "address_street": "159 N Whisman Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3926226,
+      "lng": -122.0609593,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Termite Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ4xRSChi3j4ARj95Yy7KCl_U",
+      "google_rating": 5,
+      "google_reviews_count": 16,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:15.261Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Xpert Rodent Solutions - Pest Control Service, San Mateo County, California",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 248-4004",
+      "website": null,
+      "address_street": "450 Wavecrest Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4470196,
+      "lng": -122.4322092,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJKS2FdKRweKYRElk155cW6VQ",
+      "google_rating": 4.9,
+      "google_reviews_count": 81,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:15.613Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Horizon Termite Control Inc.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 815-6661",
+      "website": "http://www.horizontermite.com/",
+      "address_street": "3545 Haven Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4875561,
+      "lng": -122.1888756,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJr6SGGirY56ARh7ibmE50P80",
+      "google_rating": 5,
+      "google_reviews_count": 13,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:15.967Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "PURCOR Pest Solutions",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 999-9744",
+      "website": "https://www.purcorpest.com/service-areas/california/hayward-ca/?utm_source=GBPListings&utm_medium=organic&utm_campaign=keystone-pest-control-hayward",
+      "address_street": "28306 Industrial Blvd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.6185434,
+      "lng": -122.0952207,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJSXPucJuWj4ARH7kEUVauY4w",
+      "google_rating": 4.9,
+      "google_reviews_count": 446,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:16.312Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Elite Bay Area Termite Control",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 394-4184",
+      "website": "http://elitebayareatermite.com/",
+      "address_street": "1318 Old County Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.518619,
+      "lng": -122.27267,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJUVMe61N6j4ARXTwgKCZzAiM",
+      "google_rating": 5,
+      "google_reviews_count": 10,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:16.673Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "All About Termite Solutions",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 921-0356",
+      "website": "http://allabouttermitesolutions.com/",
+      "address_street": "2660 John Montgomery Dr Suite 19",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3394732,
+      "lng": -121.8208078,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ14VfdLrLj4ARqF3xCUllnLA",
+      "google_rating": 5,
+      "google_reviews_count": 38,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:17.028Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Thrasher Termite & Pest Control, Inc.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 354-9944",
+      "website": "https://thrasherpestcontrol.com/",
+      "address_street": "17427 Farley Rd W",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.2407175,
+      "lng": -121.975189,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Termite Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJTSjCD5Q1joARd4EwIpzCuEA",
+      "google_rating": 4.8,
+      "google_reviews_count": 219,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:17.377Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Rodent Relief",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 709-3203",
+      "website": null,
+      "address_street": "1109 Laurel Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4704033,
+      "lng": -122.1519636,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJN9f_SRe7j4ARq1zwdT06BvI",
+      "google_rating": 5,
+      "google_reviews_count": 3,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:17.713Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Killroy Pest Control in Campbell",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 426-8607",
+      "website": "https://killroy.com/",
+      "address_street": "1175 Dell Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.269609,
+      "lng": -121.9531639,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJfbNegAM1joARDRIjIzboucM",
+      "google_rating": 4.6,
+      "google_reviews_count": 138,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:18.067Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Complete Pest Control",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 839-9999",
+      "website": "https://completepestcontrolredwoodcity.blogspot.com/",
+      "address_street": "851A Shasta St",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.479187,
+      "lng": -122.2221213,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJw-pKsk6ij4ARSvh4eM0DYUE",
+      "google_rating": 4.1,
+      "google_reviews_count": 12,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:18.419Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "KELLY PETES PEST SERVICES, INC.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 300-1897",
+      "website": null,
+      "address_street": "171 Main St Suite 246",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.37901139999999,
+      "lng": -122.1149753,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJC1TU1sMzjoARXMfie08qLvk",
+      "google_rating": 3.7,
+      "google_reviews_count": 3,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Termite/Pest Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:18.775Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Foundation Solutions, Inc",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 297-0123",
+      "website": "http://foundationsolutions.com/",
+      "address_street": "3052 Scott Blvd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3766481,
+      "lng": -121.9609992,
+      "certifications": [
+        "ASHI",
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJt013Dn3Lj4ARcvOjYYKKpRQ",
+      "google_rating": 4.7,
+      "google_reviews_count": 18,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:24.017Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Peace of Mind Structural",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 343-3133",
+      "website": "https://earthquakefoundation.com/",
+      "address_street": "180 South Blvd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.55555349999999,
+      "lng": -122.3111078,
+      "certifications": [
+        "PE",
+        "SE",
+        "Structural Engineer"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJU1dse2Gej4ARIY_7jd_k6x4",
+      "google_rating": 4.9,
+      "google_reviews_count": 215,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:24.361Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Foundation Inspection Services",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 354-4355",
+      "website": null,
+      "address_street": "Los Gatos",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.2358078,
+      "lng": -121.9623751,
+      "certifications": [
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Foundation Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ______M1joAR_iihCOV3f3Y",
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:24.992Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Palo Alto Foundation & Concrete Contractors",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 769-6890",
+      "website": null,
+      "address_street": "260 Sheridan Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.42632529999999,
+      "lng": -122.1409849,
+      "certifications": [
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ8cLXO2G7j4ARL_bRvER5v3Y",
+      "google_rating": 4.7,
+      "google_reviews_count": 31,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:25.346Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Foundation Strategies and Construction Inc.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 320-7433",
+      "website": "https://www.foundationstrategiesinc.com/?utm_campaign=gmb",
+      "address_street": "3141 Stevens Creek Blvd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3240516,
+      "lng": -121.9516414,
+      "certifications": [
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJoT5IQSs1joARACC76E8dR7k",
+      "google_rating": 5,
+      "google_reviews_count": 8,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:26.020Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Groundworks",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 426-4952",
+      "website": "https://www.groundworks.com/locations/groundworks-san-jose/groundworks-san-jose-branch/?utm_source=google&utm_medium=organic&utm_campaign=gmb_gw-sjc",
+      "address_street": "1161 N Fair Oaks Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4033135,
+      "lng": -122.0108857,
+      "certifications": [
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ60lndd23j4ARy9F4bRKNFHM",
+      "google_rating": 4.7,
+      "google_reviews_count": 95,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:26.367Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Lemon Remodeling & Services INC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 883-0191",
+      "website": "https://lemonremodeling.com/",
+      "address_street": "530 Lytton Ave # 200",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4493401,
+      "lng": -122.1599696,
+      "certifications": [
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJjanAGpi7j4ARcohvHVpotdo",
+      "google_rating": 5,
+      "google_reviews_count": 3,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:26.718Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Greenberg Construction",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 430-2539",
+      "website": "https://www.greenberg.construction/",
+      "address_street": "904 Industrial Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.42216579999999,
+      "lng": -122.0984328,
+      "certifications": [
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJP0lmBUHpj4ARa8MqX0YZHDE",
+      "google_rating": 4.9,
+      "google_reviews_count": 44,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:27.084Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Hohbach-Lewin Inc.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 617-5930",
+      "website": "http://www.hohbach-lewin.com/",
+      "address_street": "260 Sheridan Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.426356,
+      "lng": -122.141048,
+      "certifications": [
+        "Structural Engineer",
+        "Civil Engineer"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJxeGx_O-6j4AR0NUjHk4v7Qw",
+      "google_rating": 5,
+      "google_reviews_count": 5,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:29.565Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "RH Construction and Structural",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 722-8372",
+      "website": "https://rhconstructionandstructural.com/",
+      "address_street": "400 San Antonio Rd #2108",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4051788,
+      "lng": -122.1119848,
+      "certifications": [
+        "PE",
+        "SE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ45NPZMXzpmURDKUX23_CCWY",
+      "google_rating": 5,
+      "google_reviews_count": 19,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:30.259Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Spacial AI - Civil / Structural / MEP Engineering",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 663-3339",
+      "website": "https://www.spacial.io/",
+      "address_street": "908 Industrial Ave unit c",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4224176,
+      "lng": -122.0983441,
+      "certifications": [
+        "PE",
+        "SE",
+        "Structural Engineer"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJrQyB1mi7j4ARJ7Z-HqBfAOo",
+      "google_rating": 5,
+      "google_reviews_count": 2,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:30.622Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "A C & H Civil Engineers",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 327-3900",
+      "website": null,
+      "address_street": "2443 Ash St ste h",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4264206,
+      "lng": -122.1442118,
+      "certifications": [
+        "Civil Engineer"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJvSuwj-W6j4ARdP8Zf39s2GA",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Foundation/Structural Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:30.959Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "SERVPRO of Palo Alto",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 800-3448",
+      "website": "https://www.servpro.com/locations/ca/servpro-of-palo-alto?utm_medium=yext&utm_source=gmb",
+      "address_street": "2225 E Bayshore Rd Suite 270",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.44996499999999,
+      "lng": -122.1209764,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ_V3Ov7G7j4ARed8KKinhwEI",
+      "google_rating": 4.4,
+      "google_reviews_count": 37,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:35.606Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Reactic Restoration",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 501-0668",
+      "website": "https://reacticrestoration.com/palo-alto/",
+      "address_street": "407 California Ave Unit 10",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.42631830000001,
+      "lng": -122.1445689,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Asbestos Testing"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJe30uea67j4AREzqSAk0eIlk",
+      "google_rating": 5,
+      "google_reviews_count": 12,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:36.271Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "SERVPRO of Mountain View, Los Altos",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 770-2992",
+      "website": "https://www.servpro.com/locations/ca/servpro-of-mountain-view-los-altos?utm_medium=yext&utm_source=gmb",
+      "address_street": "1224 Alderwood Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4046055,
+      "lng": -121.9946314,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJJ5UNsfy3j4ARRmz6DMn35uo",
+      "google_rating": 5,
+      "google_reviews_count": 122,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:37.601Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Leader Restoration",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 899-6444",
+      "website": "https://leaderestoration.com/",
+      "address_street": "303 Twin Dolphin Dr 6th. Floor",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.5235949,
+      "lng": -122.2584414,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJG4xcaK6Yj4ARr3rtCpC7QTE",
+      "google_rating": 5,
+      "google_reviews_count": 15,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:38.271Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Hydro Hero Restoration",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 250-0290",
+      "website": "http://www.hydroherorestoration.com/",
+      "address_street": "1100 Sharon Park Dr",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4246278,
+      "lng": -122.2181408,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ7ad2Jnylj4ARic0o5dV0Ta0",
+      "google_rating": 5,
+      "google_reviews_count": 23,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:38.922Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "SJ Mold Removal",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 543-2770",
+      "website": "http://sjmoldremoval.com/",
+      "address_street": "SANTANA HEIGHTS VIA",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3205,
+      "lng": -121.948308,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ5ZFLk9_Kj4ARvsbsY23mBdc",
+      "google_rating": 5,
+      "google_reviews_count": 8,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:39.322Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Reliance Construction",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 347-9100",
+      "website": "http://www.reliance-const.com/",
+      "address_street": "1080 Wentworth St",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3990866,
+      "lng": -122.0848549,
+      "certifications": [
+        "CIE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJkbVZRwOjj4ARqS_2FE3LDE4",
+      "google_rating": 4.7,
+      "google_reviews_count": 46,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:39.664Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "ZGREEN Restoration",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 384-6258",
+      "website": "https://www.zgreenrestoration.com/",
+      "address_street": "770 Menlo Ave Suite #219",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4504531,
+      "lng": -122.1840525,
+      "certifications": [
+        "CIE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJK8Mgx7UcxwURtiYpoCFqWMs",
+      "google_rating": 5,
+      "google_reviews_count": 6,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:40.030Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Bay Area Mold Pros",
+      "owner_name": null,
+      "email": null,
+      "phone": "(866) 982-4257",
+      "website": "https://bayareamoldpros.com/",
+      "address_street": "1420 Turk St",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7806923,
+      "lng": -122.4329458,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJL3NKaPp5j4ARvf30M6jjExI",
+      "google_rating": 5,
+      "google_reviews_count": 113,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:40.376Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Reactic Restoration",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 264-9990",
+      "website": "https://reacticrestoration.com/san-carlos/",
+      "address_street": "110 Glenn Way Suite #13",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.5144359,
+      "lng": -122.2650325,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJTeteZZyZj4AREWyLlDnTZ3w",
+      "google_rating": 5,
+      "google_reviews_count": 9,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:40.724Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Restoration of Palo Alto",
+      "owner_name": null,
+      "email": null,
+      "phone": "(209) 627-4666",
+      "website": null,
+      "address_street": "753 Oregon Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.43746169999999,
+      "lng": -122.1320015,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJNzql2ra7j4AR1S5mFZINqzc",
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:41.050Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Good Housekeeping Inc.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 573-1923",
+      "website": "http://www.biocleanca.com/",
+      "address_street": "1115 Himmel Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.45682379999999,
+      "lng": -122.2214967,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJM3krQ4Kjj4ARHUKx9IKt8Ec",
+      "google_rating": 4.8,
+      "google_reviews_count": 24,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:41.406Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "One Call Services",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 394-1606",
+      "website": "https://www.one-call-services.com/",
+      "address_street": "3269 Seldon Ct",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.5192104,
+      "lng": -121.9463152,
+      "certifications": [
+        "CIE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ_QIw7c6_j4ARuvI4jt59OlQ",
+      "google_rating": 4.8,
+      "google_reviews_count": 55,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:41.775Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Dansel Inc.",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 564-0152",
+      "website": "https://danselrestoration.com/",
+      "address_street": "1900 Camden Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.2613943,
+      "lng": -121.9237111,
+      "certifications": [
+        "CIE"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJodMmGUY1joARLztdxsRx1sU",
+      "google_rating": 4.9,
+      "google_reviews_count": 51,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:42.157Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Radon California",
+      "owner_name": null,
+      "email": null,
+      "phone": "(805) 244-6687",
+      "website": "https://www.radon-california.com/",
+      "address_street": "365 E Avenida De Los Arboles #1021",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 34.2186987,
+      "lng": -118.8703757,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJSfhMnmwx6IARkMlFuwIcN20",
+      "google_rating": 5,
+      "google_reviews_count": 12,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Specialty Testing Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:43.993Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Commercial Property Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(408) 205-5915",
+      "website": "http://commercialinspection.company/",
+      "address_street": "171 Main St",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.37901139999999,
+      "lng": -122.1149753,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Commercial Property Inspection"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJVVX0B--wj4ARjzUnSoCUM8s",
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:52.474Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Palo Alto Startup House of Silicon Valley",
+      "owner_name": null,
+      "email": null,
+      "phone": null,
+      "website": "http://www.startuphouse.co/",
+      "address_street": "730 Moreno Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4350151,
+      "lng": -122.1298601,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJh6ORvRC7j4ARqsOEQQQ1lcA",
+      "google_rating": 4.9,
+      "google_reviews_count": 49,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:23:59.509Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "The Marc, Palo Alto",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 800-3382",
+      "website": "https://www.themarc-pa.com/?utm_source=GBP&utm_medium=organic&utm_knock=g&cpm=google",
+      "address_street": "501 Forest Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4472616,
+      "lng": -122.1568205,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ9-jzuT67j4ARKy7ktiIeU7A",
+      "google_rating": 4.6,
+      "google_reviews_count": 81,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:00.160Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Palo Alto Place Apartments",
+      "owner_name": null,
+      "email": null,
+      "phone": "(833) 715-3297",
+      "website": "https://www.paloaltoplace.com/?utm_source=apartmentseo&utm_medium=gmb&utm_campaign=organicmaplisting",
+      "address_street": "565 Arastradero Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.40864120000001,
+      "lng": -122.1240939,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJt-nnEHy6j4ARSdeLV-3WIwQ",
+      "google_rating": 4.1,
+      "google_reviews_count": 19,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:00.514Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Los Altos City Building",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 947-2752",
+      "website": null,
+      "address_street": "1 N San Antonio Rd",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3816531,
+      "lng": -122.1136191,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ33KOk-6wj4AR34C9ywVTiUE",
+      "google_rating": 2.4,
+      "google_reviews_count": 9,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:00.854Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Parker Palo Alto Apartments",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 856-1977",
+      "website": "https://www.parkerpaloalto.com/?p=1&nocache=1",
+      "address_street": "1094 Tanland Dr",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4436795,
+      "lng": -122.1202093,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJ_yeqKK27j4ARqT_VJNmzO_Q",
+      "google_rating": 3.8,
+      "google_reviews_count": 80,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:01.218Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "City of Menlo Park Building Division",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 330-6704",
+      "website": "https://menlopark.org/building",
+      "address_street": "City Hall",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.45362149999999,
+      "lng": -122.1773648,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJVdZuBCqlj4ARvqqFwcCDuWk",
+      "google_rating": 2,
+      "google_reviews_count": 4,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:02.157Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Palo Alto Central",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 559-9020",
+      "website": null,
+      "address_street": "149 California Ave",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.42833329999999,
+      "lng": -122.1427778,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJZ-9JGuW6j4ARBwm2zkZLMN4",
+      "google_rating": 4,
+      "google_reviews_count": 24,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:02.807Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Mountain View Building Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 903-6313",
+      "website": "https://developmentpermits.mountainview.gov/about-permits/schedule-your-inspections",
+      "address_street": "500 Castro St #2",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.3900526,
+      "lng": -122.0822886,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJodN_GTO3j4AR4NA59AwLmBM",
+      "google_rating": 1.4,
+      "google_reviews_count": 8,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:03.154Z",
+      "location_verified": true
+    },
+    {
+      "business_name": "Atherton Building Department",
+      "owner_name": null,
+      "email": null,
+      "phone": "(650) 752-0560",
+      "website": "https://www.ci.atherton.ca.us/147/Building",
+      "address_street": "80 Fair Oaks Ln",
+      "address_city": "Palo Alto",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.4640117,
+      "lng": -122.1985058,
+      "certifications": [
+        "Inspector"
+      ],
+      "services": [
+        "Inspection Services"
+      ],
+      "years_in_business": null,
+      "insurance_verified": false,
+      "license_number": null,
+      "google_place_id": "ChIJz8hwX2ejj4ARgBTvbS7glX0",
+      "google_rating": 5,
+      "google_reviews_count": 2,
+      "business_status": "OPERATIONAL",
+      "inspector_category": "Commercial Building Inspectors",
+      "data_source": "Google Maps Places API",
+      "collected_at": "2025-07-28T09:24:04.098Z",
+      "location_verified": true
+    }
+  ]
+}

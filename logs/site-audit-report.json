@@ -1,0 +1,163 @@
+{
+  "executiveSummary": {
+    "totalLinksFound": 38,
+    "workingLinks": 38,
+    "brokenLinks": 0,
+    "redirects": 0,
+    "timeouts": 0,
+    "crawlDuration": "9.44 seconds",
+    "timestamp": "2025-08-07T05:20:22.556Z"
+  },
+  "criticalIssues": [
+    {
+      "type": "API Failures",
+      "description": "2 API endpoints are not working",
+      "impact": "Core functionality is broken",
+      "endpoints": [
+        {
+          "name": "Nearby Cities",
+          "url": "http://localhost:3000/api/locations/nearby-cities?lat=37.7749&lng=-122.4194",
+          "status": 400
+        },
+        {
+          "name": "SEO Data",
+          "url": "http://localhost:3000/api/seo/san-francisco-ca",
+          "status": 404
+        }
+      ]
+    }
+  ],
+  "highPriorityIssues": [],
+  "mediumPriorityIssues": [],
+  "lowPriorityIssues": [],
+  "detailedFindings": {
+    "brokenLinks": [],
+    "timeouts": [],
+    "redirects": [],
+    "apiEndpoints": {
+      "working": [
+        {
+          "name": "Inspector Search",
+          "url": "http://localhost:3000/api/inspectors/search?city=San Francisco&state=CA",
+          "status": 200,
+          "responseTime": 358
+        },
+        {
+          "name": "Sitemap API",
+          "url": "http://localhost:3000/api/sitemap",
+          "status": 200,
+          "responseTime": 329
+        },
+        {
+          "name": "Memberships",
+          "url": "http://localhost:3000/api/memberships",
+          "status": 200,
+          "responseTime": 184
+        }
+      ],
+      "broken": [
+        {
+          "name": "Nearby Cities",
+          "url": "http://localhost:3000/api/locations/nearby-cities?lat=37.7749&lng=-122.4194",
+          "status": 400
+        },
+        {
+          "name": "SEO Data",
+          "url": "http://localhost:3000/api/seo/san-francisco-ca",
+          "status": 404
+        }
+      ]
+    },
+    "functionalityTests": [
+      {
+        "name": "Homepage",
+        "url": "http://localhost:3000/",
+        "status": 200,
+        "success": true,
+        "responseTime": 24
+      },
+      {
+        "name": "Cities Directory",
+        "url": "http://localhost:3000/cities",
+        "status": 200,
+        "success": true,
+        "responseTime": 201
+      },
+      {
+        "name": "Search Page",
+        "url": "http://localhost:3000/search",
+        "status": 200,
+        "success": true,
+        "responseTime": 11
+      },
+      {
+        "name": "City Page (San Francisco)",
+        "url": "http://localhost:3000/ca/san-francisco",
+        "status": 200,
+        "success": true,
+        "responseTime": 98
+      },
+      {
+        "name": "City Page (Los Angeles)",
+        "url": "http://localhost:3000/ca/los-angeles",
+        "status": 200,
+        "success": true,
+        "responseTime": 8
+      },
+      {
+        "name": "City Page (New York)",
+        "url": "http://localhost:3000/ny/new-york",
+        "status": 200,
+        "success": true,
+        "responseTime": 93
+      },
+      {
+        "name": "State Overview (California)",
+        "url": "http://localhost:3000/ca-home-inspectors",
+        "status": 200,
+        "success": true,
+        "responseTime": 604
+      },
+      {
+        "name": "Premium Upgrade Page",
+        "url": "http://localhost:3000/premium-upgrade",
+        "status": 200,
+        "success": true,
+        "responseTime": 116
+      },
+      {
+        "name": "Search: Generic Search",
+        "url": "http://localhost:3000/api/inspectors/search?q=home%20inspection",
+        "status": 200,
+        "success": true,
+        "responseTime": 144
+      },
+      {
+        "name": "Search: City Search",
+        "url": "http://localhost:3000/api/inspectors/search?q=San%20Francisco",
+        "status": 200,
+        "success": true,
+        "responseTime": 130
+      },
+      {
+        "name": "Search: ZIP Code Search",
+        "url": "http://localhost:3000/api/inspectors/search?q=94105",
+        "status": 200,
+        "success": true,
+        "responseTime": 128
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "priority": "CRITICAL",
+      "action": "Fix all critical issues immediately",
+      "details": "Homepage and API endpoints must be functional for the site to work"
+    },
+    {
+      "priority": "CRITICAL",
+      "action": "Fix broken API endpoints",
+      "details": "Ensure database connections and environment variables are properly configured"
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "metadata": {
+    "phase": "Phase 2 - Oakland",
+    "collected_at": "2025-07-28T08:16:17.386Z",
+    "total_inspectors": 25,
+    "duplicates_skipped": 41,
+    "api_calls": 73,
+    "duration_seconds": 54.765,
+    "city": "Oakland",
+    "state": "CA",
+    "search_terms": [
+      "home inspector Oakland CA",
+      "property inspector Oakland California",
+      "house inspector Oakland",
+      "residential inspector Oakland CA",
+      "certified home inspector Oakland",
+      "licensed home inspector Oakland"
+    ]
+  },
+  "inspectors": [
+    {
+      "business_name": "Pillar To Post Home Inspectors - Oakland",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 755-4945",
+      "website": "https://osazeteam.pillartopost.com/",
+      "address_street": "248 3rd St Unit #355",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7950039,
+      "lng": -122.2708764,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJdzAUNVCBj4ARJvOeGGiIK5Q",
+      "google_rating": 5,
+      "google_reviews_count": 18,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:23.603Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Inspection Pros - East Bay, San Francisco and Silicon Valley",
+      "owner_name": null,
+      "email": null,
+      "phone": "(925) 838-5959",
+      "website": "https://www.bpginspections.com/region/inspection-pros-east-bay?utm_source=google&utm_medium=google_my_business&utm_campaign=inspection_pros_east_bay",
+      "address_street": "3283 Garfield Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7582618,
+      "lng": -122.2268772,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJpzsZarCGj4ARv63lE0rydg8",
+      "google_rating": 4.9,
+      "google_reviews_count": 40,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:24.210Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "JMC Building Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 525-7173",
+      "website": "http://www.jmcinspections.com/",
+      "address_street": "1410 Alcatraz Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.8475121,
+      "lng": -122.2791161,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJOe2KHUt5hYARlQRAja5yV0A",
+      "google_rating": 5,
+      "google_reviews_count": 122,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:24.820Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Bay Area Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 515-3355",
+      "website": "http://www.bayareahomeinspections.com/",
+      "address_street": "551 25th Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7790515,
+      "lng": -122.4849569,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJP5sQzTZ-j4ARg7RQjk1oikY",
+      "google_rating": 5,
+      "google_reviews_count": 159,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:25.478Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Kinetic Property Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(925) 301-5740",
+      "website": "http://www.kineticpi.com/",
+      "address_street": "385 Dolores Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.723056,
+      "lng": -122.1511326,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJEwzPMr6Pj4AR5TKNCoFFKfE",
+      "google_rating": 4.9,
+      "google_reviews_count": 45,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:26.091Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "California Healthy Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 828-4700",
+      "website": "http://www.ca-hh.com/",
+      "address_street": "1799 Old Bayshore Hwy Suite 241C",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.60225270000001,
+      "lng": -122.372253,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJSaB9MtZ3j4ARDA2ocAYnJJA",
+      "google_rating": 5,
+      "google_reviews_count": 243,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:26.749Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Golden Gate Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 878-1331",
+      "website": "https://goldengatehomeinspections.com/",
+      "address_street": "201 Spear St #1100",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7913437,
+      "lng": -122.3928159,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJmZ9PUumBhYARMRZGZHsTfiw",
+      "google_rating": 5,
+      "google_reviews_count": 315,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:27.407Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "A+ Home Inspections West",
+      "owner_name": null,
+      "email": null,
+      "phone": "(615) 720-7743",
+      "website": null,
+      "address_street": "854 Isabella St",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.814803,
+      "lng": -122.276324,
+      "certifications": [
+        "ASHI",
+        "Certified"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJT_GB6qeAj4ARjeU60Z3s3f4",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:28.067Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Marell Inspection Services Inc",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 338-0234",
+      "website": "http://www.marellinspection.com/",
+      "address_street": "6114 La Salle Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.82623359999999,
+      "lng": -122.2099021,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJ6e7xtZqHj4ARvquXXdO7Zdg",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:28.719Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Sequoia Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(415) 295-2277",
+      "website": "https://www.sequoiahomeinspections.com/",
+      "address_street": "11 Lodge Ln",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.96575609999999,
+      "lng": -122.535322,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJPSLsCzwmUoYRUCNcnG_DAK8",
+      "google_rating": 5,
+      "google_reviews_count": 43,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:29.450Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Cantor Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 507-2279",
+      "website": "http://www.cantorinspections.com/",
+      "address_street": "5621 Ludwig Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.9338512,
+      "lng": -122.3169657,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJKWPVigJ8hYAR9xgiFqxtv2g",
+      "google_rating": 5,
+      "google_reviews_count": 3,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:30.067Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Oakland Home Inspections LLC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(248) 787-4366",
+      "website": "https://www.oaklandhi.com/",
+      "address_street": "1961 Twilight Hill Ct",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 42.5537943,
+      "lng": -83.4660823,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJU2J0AKmlJIgRnLVp_9GEMeE",
+      "google_rating": 4.6,
+      "google_reviews_count": 73,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:31.320Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "MoldTeam Inspection Oakland",
+      "owner_name": null,
+      "email": null,
+      "phone": "(341) 234-0308",
+      "website": null,
+      "address_street": "7020 Bancroft Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7671301,
+      "lng": -122.1783175,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJofDoIgCFj4ARrngP4IUEqTg",
+      "google_rating": 5,
+      "google_reviews_count": 2,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:31.963Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "M Brady Inspections LLC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 610-9816",
+      "website": "http://mbradyinspections.com/",
+      "address_street": "6114 La Salle Ave #108",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.8262131,
+      "lng": -122.2099003,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJuzqat5qHj4AResDwnh56uTk",
+      "google_rating": 5,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:32.660Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "MoldTeam Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(341) 234-0319",
+      "website": null,
+      "address_street": "6113 La Salle Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.8266021,
+      "lng": -122.2102011,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJ6bd9BgCHj4ARnSLUKaeApMM",
+      "google_rating": 5,
+      "google_reviews_count": 4,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:33.293Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "North Bay Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(707) 649-8700",
+      "website": "http://www.northbayinspection.com/",
+      "address_street": "1485 Maria Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.9723715,
+      "lng": -122.0196945,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJ83tDw1tzhYARE3hJW01ojcc",
+      "google_rating": 4.7,
+      "google_reviews_count": 28,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:33.954Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Pleasant Home Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(925) 822-2699",
+      "website": "http://pleasanthomeinspections.com/",
+      "address_street": "1675 Baywood Dr",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.9685447,
+      "lng": -121.9857236,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJAQAAAExehYARO2uFY02TK7o",
+      "google_rating": 5,
+      "google_reviews_count": 21,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:34.599Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Inspection Consultants",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 635-9211",
+      "website": null,
+      "address_street": "315 14th St Suite 2",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.80295,
+      "lng": -122.2720566,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJ6fwMpEeBj4AROGE9k2oytU4",
+      "google_rating": 3,
+      "google_reviews_count": 1,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:35.245Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "First Rate Property Inspection",
+      "owner_name": null,
+      "email": null,
+      "phone": "(855) 537-5326",
+      "website": null,
+      "address_street": "360 Grand Ave #194",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.8107668,
+      "lng": -122.2550228,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJ8-qQQE-Hj4AR_mL5ZccLr9k",
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:42.558Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Faultless Property Services LLC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(800) 337-1964",
+      "website": null,
+      "address_street": "551 W Grand Ave # 23",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.8119362,
+      "lng": -122.2705837,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJlZ45OrOBj4ARqOopVzDsVAc",
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:46.884Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "4 Square Property Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 410-0811",
+      "website": "https://www.4square.pro/",
+      "address_street": "Oakland",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.8087684,
+      "lng": -122.24724,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJPy-sfQEnBWQRO0RfkIq8OiE",
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:47.503Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "T - Squared Home Inspections & Property Preservation Services",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 635-8626",
+      "website": null,
+      "address_street": "10401 Shaw St",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7455855,
+      "lng": -122.1514399,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJCdDwuAyPj4ARkuErQqjRryo",
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:48.723Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Oakland County Home Inspections LLC",
+      "owner_name": null,
+      "email": null,
+      "phone": "(313) 338-9840",
+      "website": "http://my-ochi.com/",
+      "address_street": "25165 Dunbar St",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 42.4734978,
+      "lng": -83.2626775,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJ0SHvmOjPJIgRgNdyEbtsKgg",
+      "google_rating": 5,
+      "google_reviews_count": 17,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:57.216Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Elite Home and Commercial Property Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(925) 922-4460",
+      "website": "https://elitehcpi.com/",
+      "address_street": "350 Main St Suite H8",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.6592941,
+      "lng": -121.8761402,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJBUnu3hvpj4ARdGl61hWuCCA",
+      "google_rating": 5,
+      "google_reviews_count": 39,
+      "business_status": "OPERATIONAL",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:15:59.919Z",
+      "search_phase": "Phase 2 - Oakland"
+    },
+    {
+      "business_name": "Looking Best Property Inspections",
+      "owner_name": null,
+      "email": null,
+      "phone": "(510) 270-5397",
+      "website": null,
+      "address_street": "1515 27th Ave",
+      "address_city": "Oakland",
+      "address_state": "CA",
+      "address_zip": "",
+      "lat": 37.7820388,
+      "lng": -122.2308653,
+      "certifications": [
+        "Home Inspector"
+      ],
+      "services": [
+        "Home Inspection",
+        "Property Inspection"
+      ],
+      "google_place_id": "ChIJX-OyD_CGj4ARaEaB26POxmE",
+      "business_status": "CLOSED_TEMPORARILY",
+      "data_source": "Google Maps Places API - Oakland Search",
+      "collected_at": "2025-07-28T08:16:14.884Z",
+      "search_phase": "Phase 2 - Oakland"
+    }
+  ]
+}

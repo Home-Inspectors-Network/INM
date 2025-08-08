@@ -1,0 +1,4765 @@
+{
+  "metadata": {
+    "generated": "2025-07-27T07:03:25.656Z",
+    "total_inspectors": 184,
+    "states_covered": 5,
+    "cities_covered": 10
+  },
+  "inspectors": [
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Brian Garcia",
+      "email": "info@briangarcia.com",
+      "phone": "(251) 169-4931",
+      "website": "https://reliableresidential.com",
+      "address_street": "8130 Third Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "55650",
+      "lat": 33.520775648509506,
+      "lng": -86.83355196688511,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": "LIC95217",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.653Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "John Miller",
+      "email": "johnmiller@aol.com",
+      "phone": "(520) 558-2343",
+      "website": "https://www.detailedcoinspections.com",
+      "address_street": "5964 First Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "66408",
+      "lat": 33.51736235279071,
+      "lng": -86.79173508621543,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": "LIC80790",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Andrew Brown",
+      "email": "andrewbrown.inspection@hotmail.com",
+      "phone": "(520) 467-1534",
+      "website": null,
+      "address_street": "7861 Main Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "21160",
+      "lat": 33.515140396323076,
+      "lng": -86.80759442205012,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 11,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Steven Brown",
+      "email": "contact@stevenbrowninspections.com",
+      "phone": "(520) 300-3212",
+      "website": "https://completeerviceshome.com",
+      "address_street": "8326 First Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "83729",
+      "lat": 33.532415903232675,
+      "lng": -86.79525909904618,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 23,
+      "license_number": "LIC14022",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Andrew Rodriguez",
+      "email": "andrewrodriguez@hotmail.com",
+      "phone": "(602) 273-9075",
+      "website": "https://accurate.com",
+      "address_street": "8640 Main Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "35178",
+      "lat": 33.495042718904344,
+      "lng": -86.79793724564878,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 23,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Paul Garcia",
+      "email": "paulgarcia@propertycheck.com",
+      "phone": "(520) 877-9355",
+      "website": null,
+      "address_street": "2442 School Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "44615",
+      "lat": 33.559595994695165,
+      "lng": -86.7750182261367,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 8,
+      "license_number": "LIC61528",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "David Jones",
+      "email": "davidjones@outlook.com",
+      "phone": "(251) 533-6537",
+      "website": "https://www.eagleeyeinspections.com",
+      "address_street": "610 Park Avenue",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "70236",
+      "lat": 33.52266048637776,
+      "lng": -86.77387886341141,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 13,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "James Hernandez",
+      "email": "jameshernandez.inspection@yahoo.com",
+      "phone": "(623) 172-6951",
+      "website": "https://www.accurateinspections.com",
+      "address_street": "7615 School Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "44791",
+      "lat": 33.47733597513738,
+      "lng": -86.815160944499,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": "LIC83414",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Christopher Garcia",
+      "email": "contact@christophergarciainspections.com",
+      "phone": "(334) 346-5654",
+      "website": null,
+      "address_street": "5549 Cedar Lane",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "17724",
+      "lat": 33.49948514905392,
+      "lng": -86.80665315873426,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 11,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Kenneth Anderson",
+      "email": "contact@kennethandersoninspections.com",
+      "phone": "(928) 988-5258",
+      "website": null,
+      "address_street": "9043 Lincoln Drive",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "41305",
+      "lat": 33.55267962152118,
+      "lng": -86.8328682238723,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "James Wilson",
+      "email": "jameswilson98@aol.com",
+      "phone": "(256) 133-7626",
+      "website": "https://www.reliableresidentialinspections.com",
+      "address_street": "1537 Pine Road",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "42013",
+      "lat": 33.51136546321905,
+      "lng": -86.78681952586564,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 9,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Paul Davis",
+      "email": "contact@pauldavisinspections.com",
+      "phone": "(623) 436-5428",
+      "website": "https://accurate.com",
+      "address_street": "2658 First Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "75250",
+      "lat": 33.557192089818095,
+      "lng": -86.76896099495345,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 3,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Paul Johnson",
+      "email": "pauljohnson68@homeinspections.com",
+      "phone": "(480) 847-4341",
+      "website": "https://www.allclearervicesinspections.com",
+      "address_street": "3108 Elm Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "47899",
+      "lat": 33.55590302906211,
+      "lng": -86.83250562285693,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Robert Martinez",
+      "email": "contact@robertmartinezinspections.com",
+      "phone": "(907) 448-9816",
+      "website": null,
+      "address_street": "2985 Lincoln Drive",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "93420",
+      "lat": 33.56035100251757,
+      "lng": -86.76093594144815,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Brian Johnson",
+      "email": "info@brianjohnson.com",
+      "phone": "(623) 431-7911",
+      "website": "https://guardcompany.com",
+      "address_street": "9180 School Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "80162",
+      "lat": 33.51216750762262,
+      "lng": -86.76715053267385,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 3,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Andrew Wilson",
+      "email": "andrewwilson60@aol.com",
+      "phone": "(480) 421-4062",
+      "website": "https://www.allclearervicesproperty.net",
+      "address_street": "1996 Maple Drive",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "98154",
+      "lat": 33.47993722829004,
+      "lng": -86.85882457903102,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 9,
+      "license_number": "LIC95995",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "James Wilson",
+      "email": "contact@jameswilsoninspections.com",
+      "phone": "(520) 296-4067",
+      "website": "https://eagleeye.com",
+      "address_street": "9472 Maple Drive",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "39990",
+      "lat": 33.48674158276408,
+      "lng": -86.81072492857056,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "William Anderson",
+      "email": "williamanderson45@homeinspections.com",
+      "phone": "(907) 373-2095",
+      "website": "https://www.trustpointinspections.com",
+      "address_street": "1386 School Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "60562",
+      "lat": 33.47085066206354,
+      "lng": -86.77753095464703,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 16,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Mark Miller",
+      "email": "info@markmiller.com",
+      "phone": "(623) 688-9912",
+      "website": "https://www.safecheckproperty.net",
+      "address_street": "6725 Oak Avenue",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "17503",
+      "lat": 33.50002466966751,
+      "lng": -86.76332456459018,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 14,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "Christopher Garcia",
+      "email": "christophergarcia@aol.com",
+      "phone": "(520) 422-1398",
+      "website": "https://www.firstchoiceinspections.com",
+      "address_street": "9333 First Street",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "51494",
+      "lat": 33.5421750878992,
+      "lng": -86.83482837305502,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 21,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Michael Anderson",
+      "email": "michaelanderson@inspection.net",
+      "phone": "(907) 401-8439",
+      "website": null,
+      "address_street": "7172 Park Avenue",
+      "address_city": "Birmingham",
+      "address_state": "AL",
+      "address_zip": "24734",
+      "lat": 33.47669706830635,
+      "lng": -86.77000564789208,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "John Williams",
+      "email": "johnwilliams@gmail.com",
+      "phone": "(251) 265-2226",
+      "website": "https://completeerviceshome.com",
+      "address_street": "8257 School Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "42887",
+      "lat": 30.718279196714782,
+      "lng": -88.01207153161108,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Thomas Brown",
+      "email": "info@thomasbrown.com",
+      "phone": "(623) 162-1505",
+      "website": "https://www.accurateproperty.net",
+      "address_street": "5342 First Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "53530",
+      "lat": 30.72708487337791,
+      "lng": -88.0026782647722,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 3,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Michael Wilson",
+      "email": "michaelwilson89@hotmail.com",
+      "phone": "(520) 689-1854",
+      "website": "https://www.accurateproperty.net",
+      "address_street": "242 Lincoln Drive",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "84805",
+      "lat": 30.742982862127125,
+      "lng": -88.01122133374061,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": "LIC68710",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "William Anderson",
+      "email": "williamanderson@gmail.com",
+      "phone": "(480) 810-3542",
+      "website": "https://completeerviceshome.com",
+      "address_street": "6474 Cedar Lane",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "94438",
+      "lat": 30.735050551253718,
+      "lng": -87.99195043631448,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Daniel Wilson",
+      "email": "danielwilson@aol.com",
+      "phone": "(334) 315-3653",
+      "website": "https://safecheckhome.com",
+      "address_street": "6071 School Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "69372",
+      "lat": 30.71879749129052,
+      "lng": -88.02607835415533,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Christopher Wilson",
+      "email": "christopherwilson.inspection@propertycheck.com",
+      "phone": "(205) 258-2211",
+      "website": "https://www.safecheckinspections.com",
+      "address_street": "293 Church Road",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "53439",
+      "lat": 30.70826496412229,
+      "lng": -88.04765300603012,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": "LIC98949",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Mark Wilson",
+      "email": "markwilson@outlook.com",
+      "phone": "(251) 976-9807",
+      "website": null,
+      "address_street": "8235 Cedar Lane",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "56267",
+      "lat": 30.649711296959048,
+      "lng": -88.03795135669029,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Daniel Anderson",
+      "email": "contact@danielandersoninspections.com",
+      "phone": "(623) 751-5431",
+      "website": "https://www.thoroughassessmentsinspections.com",
+      "address_street": "6826 Elm Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "59372",
+      "lat": 30.670102281857726,
+      "lng": -88.0199340163353,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Thomas Davis",
+      "email": "thomasdavis.inspection@outlook.com",
+      "phone": "(480) 109-7710",
+      "website": "https://www.eagleeyeinspections.com",
+      "address_street": "7239 Main Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "42914",
+      "lat": 30.686608174352997,
+      "lng": -88.01585228508901,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": "LIC87536",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Quality First Home Inspectors",
+      "owner_name": "Daniel Brown",
+      "email": "danielbrown30@hotmail.com",
+      "phone": "(334) 960-1640",
+      "website": null,
+      "address_street": "4785 Third Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "14871",
+      "lat": 30.661484200187076,
+      "lng": -88.05249087942535,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Robert Rodriguez",
+      "email": "robertrodriguez@gmail.com",
+      "phone": "(602) 453-7964",
+      "website": "https://www.guardcompanyproperty.net",
+      "address_street": "6568 School Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "54142",
+      "lat": 30.654641388182533,
+      "lng": -88.06584114133665,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 13,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "David Miller",
+      "email": "davidmiller59@gmail.com",
+      "phone": "(334) 570-5518",
+      "website": "https://completeerviceshome.com",
+      "address_street": "6307 First Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "96514",
+      "lat": 30.73414355033684,
+      "lng": -88.06500196964613,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Paul Rodriguez",
+      "email": "paulrodriguez@aol.com",
+      "phone": "(205) 440-6818",
+      "website": "https://professionalevaluationshome.com",
+      "address_street": "3868 School Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "41491",
+      "lat": 30.64796198154297,
+      "lng": -88.04298753070348,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 9,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "Paul Rodriguez",
+      "email": "info@paulrodriguez.com",
+      "phone": "(256) 629-4581",
+      "website": "https://premierervices.com",
+      "address_street": "2616 First Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "79691",
+      "lat": 30.71078776278615,
+      "lng": -88.06746806201282,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Michael Lopez",
+      "email": "michaellopez.inspection@propertycheck.com",
+      "phone": "(251) 837-7853",
+      "website": null,
+      "address_street": "3650 Cedar Lane",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "15660",
+      "lat": 30.71319462026916,
+      "lng": -88.07810244503887,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 17,
+      "license_number": "LIC32035",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "David Smith",
+      "email": "davidsmith15@aol.com",
+      "phone": "(480) 200-3223",
+      "website": null,
+      "address_street": "9548 Maple Drive",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "22796",
+      "lat": 30.668464412525765,
+      "lng": -87.99497069917322,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 16,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "Paul Rodriguez",
+      "email": "info@paulrodriguez.com",
+      "phone": "(907) 919-4899",
+      "website": null,
+      "address_street": "8153 Third Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "73049",
+      "lat": 30.674751763065565,
+      "lng": -88.05985630615315,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 6,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Paul Smith",
+      "email": "paulsmith51@homeinspections.com",
+      "phone": "(205) 844-2481",
+      "website": "https://www.allclearervicesinspections.com",
+      "address_street": "9859 Washington Avenue",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "16673",
+      "lat": 30.678525883765495,
+      "lng": -87.99344202162263,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 22,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Brian Hernandez",
+      "email": "info@brianhernandez.com",
+      "phone": "(623) 143-2719",
+      "website": "https://thoroughassessments.com",
+      "address_street": "1470 Maple Drive",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "49579",
+      "lat": 30.727839039711103,
+      "lng": -88.06023478131362,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": "LIC25746",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Brian Miller",
+      "email": "brianmiller53@gmail.com",
+      "phone": "(251) 759-8592",
+      "website": "https://www.professionalevaluationsinspections.com",
+      "address_street": "9675 First Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "70742",
+      "lat": 30.684014264516676,
+      "lng": -88.06104875876464,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 22,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Andrew Hernandez",
+      "email": "andrewhernandez15@gmail.com",
+      "phone": "(251) 183-6970",
+      "website": null,
+      "address_street": "7796 Lincoln Drive",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "93820",
+      "lat": 30.712482341657115,
+      "lng": -88.07172002998124,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 14,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "David Anderson",
+      "email": "davidanderson.inspection@inspection.net",
+      "phone": "(480) 428-2559",
+      "website": "https://professionalevaluationshome.com",
+      "address_street": "4450 Church Road",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "35344",
+      "lat": 30.68263790216598,
+      "lng": -88.0571002998783,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 11,
+      "license_number": "LIC16198",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "William Lopez",
+      "email": "williamlopez@outlook.com",
+      "phone": "(928) 701-8758",
+      "website": "https://www.safecheckinspections.com",
+      "address_street": "4550 School Street",
+      "address_city": "Mobile",
+      "address_state": "AL",
+      "address_zip": "40845",
+      "lat": 30.734877436998996,
+      "lng": -88.0495491952429,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Andrew Garcia",
+      "email": "andrewgarcia73@gmail.com",
+      "phone": "(520) 955-4437",
+      "website": "https://safecheck.com",
+      "address_street": "949 Madison Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "65181",
+      "lat": 39.73215260937507,
+      "lng": -104.95556840730028,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Paul Lopez",
+      "email": "paullopez3@homeinspections.com",
+      "phone": "(256) 950-7287",
+      "website": null,
+      "address_street": "9261 School Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "88808",
+      "lat": 39.71503697314175,
+      "lng": -105.00663594091388,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Mark Jones",
+      "email": "markjones.inspection@outlook.com",
+      "phone": "(205) 800-1886",
+      "website": null,
+      "address_street": "7028 First Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "96910",
+      "lat": 39.736365870191,
+      "lng": -105.00142187001569,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": "LIC7234",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "James Williams",
+      "email": "jameswilliams10@inspection.net",
+      "phone": "(907) 949-5892",
+      "website": "https://www.premierervicesinspections.com",
+      "address_street": "1246 First Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "41508",
+      "lat": 39.71912224187878,
+      "lng": -104.957195869294,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 15,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "John Hernandez",
+      "email": "johnhernandez80@hotmail.com",
+      "phone": "(205) 722-3256",
+      "website": "https://completeerviceshome.com",
+      "address_street": "8405 Church Road",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "52952",
+      "lat": 39.768387584190634,
+      "lng": -104.9551207614846,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Brian Martinez",
+      "email": "brianmartinez12@hotmail.com",
+      "phone": "(602) 589-3921",
+      "website": "https://thoroughassessments.com",
+      "address_street": "7189 Madison Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "97864",
+      "lat": 39.76213616194365,
+      "lng": -105.00620055133842,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "William Martinez",
+      "email": "info@williammartinez.com",
+      "phone": "(907) 345-3254",
+      "website": "https://www.allclearervicesinspections.com",
+      "address_street": "7129 Madison Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "98150",
+      "lat": 39.75773847110642,
+      "lng": -104.98989898196136,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Christopher Garcia",
+      "email": "christophergarcia.inspection@homeinspections.com",
+      "phone": "(907) 576-5938",
+      "website": "https://trustpoint.com",
+      "address_street": "3222 Second Avenue",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "92637",
+      "lat": 39.778213964212284,
+      "lng": -104.98616773503197,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 15,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Christopher Garcia",
+      "email": "christophergarcia.inspection@propertycheck.com",
+      "phone": "(205) 858-2076",
+      "website": "https://www.guardcompanyproperty.net",
+      "address_street": "9224 School Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "93647",
+      "lat": 39.719990011674064,
+      "lng": -104.96756622703225,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "David Gonzalez",
+      "email": "davidgonzalez.inspection@homeinspections.com",
+      "phone": "(256) 468-2996",
+      "website": "https://accurate.com",
+      "address_street": "13 Lincoln Drive",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "90629",
+      "lat": 39.75550930474908,
+      "lng": -105.03145951833207,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Steven Anderson",
+      "email": "contact@stevenandersoninspections.com",
+      "phone": "(928) 941-6046",
+      "website": null,
+      "address_street": "2574 Church Road",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "27391",
+      "lat": 39.75936984500166,
+      "lng": -104.99522649144843,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Kenneth Smith",
+      "email": "kennethsmith@propertycheck.com",
+      "phone": "(928) 124-2109",
+      "website": "https://www.reliableresidentialproperty.net",
+      "address_street": "2742 Cedar Lane",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "77282",
+      "lat": 39.75229255726243,
+      "lng": -105.0366880766251,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Robert Hernandez",
+      "email": "roberthernandez.inspection@outlook.com",
+      "phone": "(907) 658-6570",
+      "website": null,
+      "address_street": "8816 Washington Avenue",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "39983",
+      "lat": 39.70789281101807,
+      "lng": -104.99191792033903,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": "LIC3383",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Thomas Gonzalez",
+      "email": "contact@thomasgonzalezinspections.com",
+      "phone": "(520) 968-9293",
+      "website": "https://www.reliableresidentialproperty.net",
+      "address_street": "329 Maple Drive",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "79322",
+      "lat": 39.78276174603935,
+      "lng": -105.02446529883926,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 15,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Thomas Lopez",
+      "email": "thomaslopez@gmail.com",
+      "phone": "(928) 970-9934",
+      "website": "https://safecheck.com",
+      "address_street": "6745 First Street",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "45046",
+      "lat": 39.68957543632279,
+      "lng": -104.98514082542248,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "John Martinez",
+      "email": "johnmartinez75@hotmail.com",
+      "phone": "(928) 964-9780",
+      "website": "https://www.professionalevaluationsinspections.com",
+      "address_street": "4927 Washington Avenue",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "17162",
+      "lat": 39.76518726758683,
+      "lng": -104.99748570075651,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Steven Lopez",
+      "email": "contact@stevenlopezinspections.com",
+      "phone": "(205) 261-8842",
+      "website": null,
+      "address_street": "2484 Second Avenue",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "68049",
+      "lat": 39.693882841893924,
+      "lng": -104.95038016724025,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 17,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Robert Garcia",
+      "email": "info@robertgarcia.com",
+      "phone": "(205) 441-5655",
+      "website": "https://www.guardcompanyinspections.com",
+      "address_street": "9020 Park Avenue",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "25049",
+      "lat": 39.70192854091644,
+      "lng": -104.95855797729678,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 15,
+      "license_number": "LIC73496",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Robert Hernandez",
+      "email": "roberthernandez67@outlook.com",
+      "phone": "(480) 868-9635",
+      "website": null,
+      "address_street": "1400 Second Avenue",
+      "address_city": "Denver",
+      "address_state": "CO",
+      "address_zip": "42085",
+      "lat": 39.78901693271616,
+      "lng": -104.96108177416555,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 9,
+      "license_number": "LIC11706",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Quality First Home Inspectors",
+      "owner_name": "James Wilson",
+      "email": "jameswilson@propertycheck.com",
+      "phone": "(928) 636-5970",
+      "website": "https://qualityfirstinspectors.com",
+      "address_street": "60 Elm Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "34500",
+      "lat": 39.98014003430839,
+      "lng": -98.00829649705653,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "John Martinez",
+      "email": "johnmartinez.inspection@inspection.net",
+      "phone": "(256) 438-3299",
+      "website": "https://thoroughassessments.com",
+      "address_street": "8555 Elm Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "50400",
+      "lat": 40.00466665778949,
+      "lng": -97.95419325771006,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Daniel Smith",
+      "email": "danielsmith.inspection@hotmail.com",
+      "phone": "(334) 218-9503",
+      "website": "https://completeervices.com",
+      "address_street": "2536 Park Avenue",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "59062",
+      "lat": 40.01526980844003,
+      "lng": -98.03794674639322,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 3,
+      "license_number": "LIC98838",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Daniel Rodriguez",
+      "email": "danielrodriguez.inspection@homeinspections.com",
+      "phone": "(623) 603-9648",
+      "website": "https://thoroughassessments.com",
+      "address_street": "5028 Third Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "94559",
+      "lat": 40.04989474506643,
+      "lng": -98.022342618837,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 18,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Kenneth Smith",
+      "email": "info@kennethsmith.com",
+      "phone": "(623) 825-8184",
+      "website": "https://www.reliableresidentialproperty.net",
+      "address_street": "6921 Lincoln Drive",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "49662",
+      "lat": 40.01917932206599,
+      "lng": -98.01735876117459,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 16,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Robert Rodriguez",
+      "email": "robertrodriguez.inspection@aol.com",
+      "phone": "(602) 197-3056",
+      "website": "https://completeerviceshome.com",
+      "address_street": "5209 Pine Road",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "87159",
+      "lat": 40.02975480780597,
+      "lng": -97.98330567190831,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 1,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "Michael Anderson",
+      "email": "contact@michaelandersoninspections.com",
+      "phone": "(251) 781-7335",
+      "website": null,
+      "address_street": "8240 School Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "60050",
+      "lat": 39.97662792279676,
+      "lng": -97.95823565598188,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 23,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Andrew Wilson",
+      "email": "andrewwilson@yahoo.com",
+      "phone": "(602) 787-9240",
+      "website": "https://www.eagleeyeproperty.net",
+      "address_street": "5602 Third Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "73190",
+      "lat": 40.04664447223232,
+      "lng": -98.02219631653423,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "John Davis",
+      "email": "johndavis43@gmail.com",
+      "phone": "(205) 571-2558",
+      "website": "https://www.safecheckproperty.net",
+      "address_street": "4584 School Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "10785",
+      "lat": 40.02533874558182,
+      "lng": -98.01817087439814,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "David Johnson",
+      "email": "davidjohnson13@hotmail.com",
+      "phone": "(334) 685-7897",
+      "website": "https://thoroughassessmentshome.com",
+      "address_street": "9349 Cedar Lane",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "33407",
+      "lat": 39.98207987972194,
+      "lng": -97.95888886481008,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Robert Williams",
+      "email": "contact@robertwilliamsinspections.com",
+      "phone": "(907) 194-5369",
+      "website": "https://www.detailedcoinspections.com",
+      "address_street": "4342 Pine Road",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "98714",
+      "lat": 39.95658585863656,
+      "lng": -98.01674094527829,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 3,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Daniel Davis",
+      "email": "danieldavis@yahoo.com",
+      "phone": "(334) 155-7382",
+      "website": "https://trustpoint.com",
+      "address_street": "8836 School Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "25511",
+      "lat": 40.02903747974943,
+      "lng": -98.03950933233945,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 19,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "William Anderson",
+      "email": "contact@williamandersoninspections.com",
+      "phone": "(334) 840-7815",
+      "website": "https://www.safecheckinspections.com",
+      "address_street": "7570 Third Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "45911",
+      "lat": 40.0481371069563,
+      "lng": -97.96356692014496,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Daniel Anderson",
+      "email": "info@danielanderson.com",
+      "phone": "(480) 821-9068",
+      "website": null,
+      "address_street": "1410 Madison Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "49691",
+      "lat": 40.035940591925204,
+      "lng": -97.97114369397836,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Andrew Jones",
+      "email": "contact@andrewjonesinspections.com",
+      "phone": "(520) 409-2949",
+      "website": "https://detailedcohome.com",
+      "address_street": "8819 Pine Road",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "78289",
+      "lat": 40.02638516650638,
+      "lng": -97.96677375041259,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Brian Brown",
+      "email": "info@brianbrown.com",
+      "phone": "(256) 410-3419",
+      "website": "https://guardcompanyhome.com",
+      "address_street": "1879 Third Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "61711",
+      "lat": 39.98981786205379,
+      "lng": -98.0259969258894,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 11,
+      "license_number": "LIC72331",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "David Gonzalez",
+      "email": "davidgonzalez@outlook.com",
+      "phone": "(256) 553-7536",
+      "website": "https://detailedcohome.com",
+      "address_street": "2478 School Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "93494",
+      "lat": 39.989250972250574,
+      "lng": -98.03995078128122,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Kenneth Martinez",
+      "email": "contact@kennethmartinezinspections.com",
+      "phone": "(251) 683-1286",
+      "website": "https://eagleeye.com",
+      "address_street": "7543 Elm Street",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "32706",
+      "lat": 40.02227211716575,
+      "lng": -98.03612439808947,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.654Z",
+      "updated_at": "2025-07-27T07:03:25.654Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Daniel Miller",
+      "email": "danielmiller@outlook.com",
+      "phone": "(205) 481-9433",
+      "website": null,
+      "address_street": "363 Pine Road",
+      "address_city": "Colorado Springs",
+      "address_state": "CO",
+      "address_zip": "20955",
+      "lat": 39.96613898314353,
+      "lng": -97.96031602826294,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "David Miller",
+      "email": "contact@davidmillerinspections.com",
+      "phone": "(602) 449-3884",
+      "website": "https://www.reliableresidentialproperty.net",
+      "address_street": "3573 Cedar Lane",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "34978",
+      "lat": 33.723378290052395,
+      "lng": -84.39359154707955,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Thomas Johnson",
+      "email": "thomasjohnson29@hotmail.com",
+      "phone": "(251) 857-4143",
+      "website": "https://www.completeervicesproperty.net",
+      "address_street": "7790 First Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "17311",
+      "lat": 33.79811878789551,
+      "lng": -84.42574074362159,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Brian Brown",
+      "email": "info@brianbrown.com",
+      "phone": "(334) 334-2679",
+      "website": "https://www.allclearervicesinspections.com",
+      "address_street": "9868 Elm Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "28081",
+      "lat": 33.71446903023508,
+      "lng": -84.42817790491591,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": "LIC98432",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Mark Martinez",
+      "email": "markmartinez@hotmail.com",
+      "phone": "(334) 313-6966",
+      "website": "https://trustpointhome.com",
+      "address_street": "8283 First Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "83593",
+      "lat": 33.757476188453595,
+      "lng": -84.41714467521376,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "William Smith",
+      "email": "williamsmith.inspection@homeinspections.com",
+      "phone": "(520) 290-1020",
+      "website": "https://premierervices.com",
+      "address_street": "132 First Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "62962",
+      "lat": 33.758183210120535,
+      "lng": -84.37311369641645,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Daniel Smith",
+      "email": "danielsmith13@inspection.net",
+      "phone": "(334) 299-6756",
+      "website": "https://www.trustpointproperty.net",
+      "address_street": "7216 Cedar Lane",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "85058",
+      "lat": 33.706847757002286,
+      "lng": -84.341535983367,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "Steven Hernandez",
+      "email": "contact@stevenhernandezinspections.com",
+      "phone": "(251) 275-8632",
+      "website": "https://firstchoicehome.com",
+      "address_street": "9267 School Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "85761",
+      "lat": 33.69919487225908,
+      "lng": -84.38559848932053,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "David Martinez",
+      "email": "info@davidmartinez.com",
+      "phone": "(256) 296-2924",
+      "website": "https://guardcompany.com",
+      "address_street": "4713 Main Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "67256",
+      "lat": 33.78917913690933,
+      "lng": -84.34687145189093,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "William Anderson",
+      "email": "info@williamanderson.com",
+      "phone": "(205) 191-9594",
+      "website": "https://professionalevaluationshome.com",
+      "address_street": "6156 Main Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "39034",
+      "lat": 33.759435995778304,
+      "lng": -84.38225798325932,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Kenneth Hernandez",
+      "email": "kennethhernandez.inspection@inspection.net",
+      "phone": "(520) 139-5566",
+      "website": "https://www.allclearervicesinspections.com",
+      "address_street": "5053 Church Road",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "14004",
+      "lat": 33.73427707937453,
+      "lng": -84.43777777815755,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 3,
+      "license_number": "LIC84341",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Andrew Garcia",
+      "email": "andrewgarcia@gmail.com",
+      "phone": "(907) 892-6704",
+      "website": "https://www.accurateproperty.net",
+      "address_street": "2034 Lincoln Drive",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "94904",
+      "lat": 33.735852017594574,
+      "lng": -84.37274202114867,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 19,
+      "license_number": "LIC78157",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "Kenneth Miller",
+      "email": "kennethmiller.inspection@aol.com",
+      "phone": "(205) 627-3602",
+      "website": null,
+      "address_street": "5001 Third Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "31963",
+      "lat": 33.76434924796663,
+      "lng": -84.40633046934904,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 22,
+      "license_number": "LIC26922",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "James Martinez",
+      "email": "jamesmartinez@hotmail.com",
+      "phone": "(602) 241-8786",
+      "website": "https://completeervices.com",
+      "address_street": "7503 Cedar Lane",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "54427",
+      "lat": 33.7902272067232,
+      "lng": -84.36297108765977,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 23,
+      "license_number": "LIC86285",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Thomas Williams",
+      "email": "thomaswilliams@hotmail.com",
+      "phone": "(205) 714-7291",
+      "website": null,
+      "address_street": "471 Park Avenue",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "14484",
+      "lat": 33.73796744381457,
+      "lng": -84.38321305694919,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 16,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "William Wilson",
+      "email": "info@williamwilson.com",
+      "phone": "(256) 440-6983",
+      "website": "https://www.thoroughassessmentsproperty.net",
+      "address_street": "5803 Pine Road",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "11307",
+      "lat": 33.71139206997786,
+      "lng": -84.3389799613873,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Kenneth Anderson",
+      "email": "kennethanderson69@propertycheck.com",
+      "phone": "(256) 285-4430",
+      "website": "https://www.trustpointinspections.com",
+      "address_street": "6978 Madison Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "15720",
+      "lat": 33.782398547264904,
+      "lng": -84.36193677199766,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Steven Jones",
+      "email": "stevenjones.inspection@outlook.com",
+      "phone": "(256) 695-3969",
+      "website": "https://www.accurateproperty.net",
+      "address_street": "1544 Washington Avenue",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "65888",
+      "lat": 33.735164022374086,
+      "lng": -84.41550363368623,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Mark Wilson",
+      "email": "contact@markwilsoninspections.com",
+      "phone": "(928) 951-8229",
+      "website": "https://safecheck.com",
+      "address_street": "6072 Church Road",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "25950",
+      "lat": 33.72638955950658,
+      "lng": -84.33867986748135,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 20,
+      "license_number": "LIC83866",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Andrew Garcia",
+      "email": "andrewgarcia95@outlook.com",
+      "phone": "(623) 718-4097",
+      "website": "https://www.professionalevaluationsproperty.net",
+      "address_street": "9296 School Street",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "64158",
+      "lat": 33.70150046625937,
+      "lng": -84.34638891906094,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Christopher Jones",
+      "email": "info@christopherjones.com",
+      "phone": "(480) 486-7293",
+      "website": "https://www.safecheckproperty.net",
+      "address_street": "3897 Oak Avenue",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "42975",
+      "lat": 33.751237949206335,
+      "lng": -84.3941282317981,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 12,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Daniel Williams",
+      "email": "info@danielwilliams.com",
+      "phone": "(480) 396-1137",
+      "website": null,
+      "address_street": "8860 Cedar Lane",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "16369",
+      "lat": 33.75450319925454,
+      "lng": -84.34044634869959,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 15,
+      "license_number": "LIC91890",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Kenneth Lopez",
+      "email": "contact@kennethlopezinspections.com",
+      "phone": "(256) 884-6291",
+      "website": "https://completeervices.com",
+      "address_street": "5844 Oak Avenue",
+      "address_city": "Atlanta",
+      "address_state": "GA",
+      "address_zip": "86685",
+      "lat": 33.76934792244924,
+      "lng": -84.42644907937351,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 13,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "David Brown",
+      "email": "contact@davidbrowninspections.com",
+      "phone": "(334) 866-5686",
+      "website": "https://www.certifiedinspectorsproperty.net",
+      "address_street": "5849 Washington Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "61553",
+      "lat": 40.03346542839256,
+      "lng": -98.01326532247435,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 15,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Robert Lopez",
+      "email": "contact@robertlopezinspections.com",
+      "phone": "(334) 511-9933",
+      "website": "https://www.completeervicesproperty.net",
+      "address_street": "7152 Second Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "75411",
+      "lat": 39.95697614226789,
+      "lng": -97.99791672013234,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Robert Wilson",
+      "email": "robertwilson.inspection@aol.com",
+      "phone": "(480) 302-3671",
+      "website": "https://www.thoroughassessmentsinspections.com",
+      "address_street": "627 Elm Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "72502",
+      "lat": 40.02298249507035,
+      "lng": -97.9565676702094,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 8,
+      "license_number": "LIC19031",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Thomas Garcia",
+      "email": "info@thomasgarcia.com",
+      "phone": "(928) 886-4925",
+      "website": "https://www.eagleeyeproperty.net",
+      "address_street": "9809 Second Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "32459",
+      "lat": 39.988317737365946,
+      "lng": -97.96064788432408,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "Daniel Gonzalez",
+      "email": "danielgonzalez54@yahoo.com",
+      "phone": "(205) 208-7626",
+      "website": null,
+      "address_street": "5886 Maple Drive",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "23235",
+      "lat": 40.030210743285394,
+      "lng": -98.04678992178388,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Andrew Brown",
+      "email": "andrewbrown45@gmail.com",
+      "phone": "(520) 378-4775",
+      "website": "https://eagleeyehome.com",
+      "address_street": "2499 Second Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "58381",
+      "lat": 40.04359267870812,
+      "lng": -97.98233285195964,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": "LIC92448",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "David Hernandez",
+      "email": "contact@davidhernandezinspections.com",
+      "phone": "(251) 853-3575",
+      "website": "https://detailedcohome.com",
+      "address_street": "8000 Washington Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "58220",
+      "lat": 40.04978179509435,
+      "lng": -97.96979696921794,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 11,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "Daniel Rodriguez",
+      "email": "danielrodriguez@propertycheck.com",
+      "phone": "(623) 517-5260",
+      "website": null,
+      "address_street": "1648 Third Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "15568",
+      "lat": 40.01022898189108,
+      "lng": -97.99880064619151,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 13,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Michael Brown",
+      "email": "michaelbrown@gmail.com",
+      "phone": "(520) 258-5329",
+      "website": null,
+      "address_street": "2363 Second Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "33807",
+      "lat": 40.015290349138276,
+      "lng": -97.95472193847047,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Kenneth Martinez",
+      "email": "kennethmartinez.inspection@outlook.com",
+      "phone": "(334) 348-1714",
+      "website": "https://www.thoroughassessmentsinspections.com",
+      "address_street": "2145 Maple Drive",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "18707",
+      "lat": 40.03769868293323,
+      "lng": -97.96264924817501,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 11,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "James Jones",
+      "email": "info@jamesjones.com",
+      "phone": "(334) 578-2282",
+      "website": "https://www.trustpointproperty.net",
+      "address_street": "951 Maple Drive",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "77965",
+      "lat": 40.035588301999226,
+      "lng": -97.96259918483138,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "David Lopez",
+      "email": "info@davidlopez.com",
+      "phone": "(256) 952-2445",
+      "website": "https://accurate.com",
+      "address_street": "9679 Maple Drive",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "60141",
+      "lat": 39.974905389683926,
+      "lng": -98.04768454187086,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 17,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Mark Hernandez",
+      "email": "info@markhernandez.com",
+      "phone": "(205) 512-8322",
+      "website": "https://detailedco.com",
+      "address_street": "8178 Third Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "27007",
+      "lat": 39.98389992693262,
+      "lng": -98.01732132188037,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 22,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Steven Wilson",
+      "email": "stevenwilson32@homeinspections.com",
+      "phone": "(907) 150-7320",
+      "website": null,
+      "address_street": "5631 Madison Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "34336",
+      "lat": 39.99923556752975,
+      "lng": -98.00039583119542,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 18,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Andrew Rodriguez",
+      "email": "info@andrewrodriguez.com",
+      "phone": "(520) 570-2610",
+      "website": null,
+      "address_street": "3521 School Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "16865",
+      "lat": 39.96985145692966,
+      "lng": -97.98171114253215,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 14,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Michael Garcia",
+      "email": "michaelgarcia40@gmail.com",
+      "phone": "(256) 119-3735",
+      "website": null,
+      "address_street": "2796 Maple Drive",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "71870",
+      "lat": 39.961026532099154,
+      "lng": -98.01034363702571,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Christopher Miller",
+      "email": "christophermiller@gmail.com",
+      "phone": "(928) 961-5871",
+      "website": "https://www.professionalevaluationsinspections.com",
+      "address_street": "7535 Elm Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "85068",
+      "lat": 40.0244647168305,
+      "lng": -98.01568623497407,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 13,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Michael Johnson",
+      "email": "contact@michaeljohnsoninspections.com",
+      "phone": "(205) 994-9930",
+      "website": null,
+      "address_street": "4979 Third Street",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "58929",
+      "lat": 40.00453791166678,
+      "lng": -98.04267184648438,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "John Martinez",
+      "email": "johnmartinez@homeinspections.com",
+      "phone": "(602) 305-9179",
+      "website": null,
+      "address_street": "6669 Washington Avenue",
+      "address_city": "Augusta",
+      "address_state": "GA",
+      "address_zip": "81545",
+      "lat": 39.99183297741014,
+      "lng": -97.9838990564629,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 18,
+      "license_number": "LIC75165",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "David Hernandez",
+      "email": "davidhernandez.inspection@yahoo.com",
+      "phone": "(480) 928-8427",
+      "website": "https://www.premierervicesproperty.net",
+      "address_street": "2242 Cedar Lane",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "52136",
+      "lat": 43.60226757083635,
+      "lng": -116.2085012988778,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": "LIC46515",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "David Martinez",
+      "email": "info@davidmartinez.com",
+      "phone": "(928) 200-8199",
+      "website": null,
+      "address_street": "2852 Second Avenue",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "44587",
+      "lat": 43.58436244701312,
+      "lng": -116.20975562021157,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Thomas Williams",
+      "email": "contact@thomaswilliamsinspections.com",
+      "phone": "(907) 927-4031",
+      "website": "https://safecheck.com",
+      "address_street": "5346 Lincoln Drive",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "68326",
+      "lat": 43.63673232978942,
+      "lng": -116.20290247870874,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 14,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "David Miller",
+      "email": "info@davidmiller.com",
+      "phone": "(256) 115-7643",
+      "website": "https://www.premierervicesinspections.com",
+      "address_street": "6864 Cedar Lane",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "87971",
+      "lat": 43.57499001960267,
+      "lng": -116.250479092959,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 17,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Thomas Davis",
+      "email": "thomasdavis@hotmail.com",
+      "phone": "(928) 113-4882",
+      "website": "https://allclearerviceshome.com",
+      "address_street": "7563 Elm Street",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "75503",
+      "lat": 43.65938157285618,
+      "lng": -116.16078670445671,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 14,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "John Williams",
+      "email": "johnwilliams@homeinspections.com",
+      "phone": "(334) 782-7329",
+      "website": null,
+      "address_street": "5755 Main Street",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "37700",
+      "lat": 43.64266882846248,
+      "lng": -116.19129928237238,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": "LIC53483",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Quality First Home Inspectors",
+      "owner_name": "James Jones",
+      "email": "jamesjones6@propertycheck.com",
+      "phone": "(928) 933-6929",
+      "website": "https://qualityfirstinspectorshome.com",
+      "address_street": "6162 Maple Drive",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "95168",
+      "lat": 43.578137363615674,
+      "lng": -116.20934744917557,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 1,
+      "license_number": "LIC21781",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "David Jones",
+      "email": "davidjones@homeinspections.com",
+      "phone": "(907) 627-5349",
+      "website": "https://firstchoice.com",
+      "address_street": "8106 Maple Drive",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "90682",
+      "lat": 43.60931591845027,
+      "lng": -116.20464425151968,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Kenneth Smith",
+      "email": "kennethsmith55@inspection.net",
+      "phone": "(602) 639-4779",
+      "website": "https://trustpointhome.com",
+      "address_street": "8635 Park Avenue",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "55734",
+      "lat": 43.587582898182276,
+      "lng": -116.2073437118483,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": "LIC58654",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "Kenneth Garcia",
+      "email": "kennethgarcia.inspection@yahoo.com",
+      "phone": "(334) 878-3235",
+      "website": "https://www.certifiedinspectorsinspections.com",
+      "address_street": "4835 School Street",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "98881",
+      "lat": 43.6483790055194,
+      "lng": -116.24358061235233,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "David Lopez",
+      "email": "davidlopez48@propertycheck.com",
+      "phone": "(251) 927-2763",
+      "website": "https://reliableresidentialhome.com",
+      "address_street": "4667 Oak Avenue",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "52619",
+      "lat": 43.65569636506734,
+      "lng": -116.2152447363418,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 17,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "William Hernandez",
+      "email": "williamhernandez.inspection@inspection.net",
+      "phone": "(928) 677-5739",
+      "website": "https://certifiedinspectorshome.com",
+      "address_street": "2576 Third Street",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "32580",
+      "lat": 43.61139079057975,
+      "lng": -116.18186015455213,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 7,
+      "license_number": "LIC46410",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Steven Gonzalez",
+      "email": "stevengonzalez@yahoo.com",
+      "phone": "(334) 833-7413",
+      "website": "https://guardcompanyhome.com",
+      "address_street": "3095 Lincoln Drive",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "10054",
+      "lat": 43.64242144069161,
+      "lng": -116.21827633878641,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 18,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Quality First Home Inspectors",
+      "owner_name": "Christopher Anderson",
+      "email": "contact@christopherandersoninspections.com",
+      "phone": "(928) 520-8407",
+      "website": "https://www.qualityfirstinspectorsinspections.com",
+      "address_street": "3457 Cedar Lane",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "79815",
+      "lat": 43.59298204143401,
+      "lng": -116.2466421058677,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 18,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "James Smith",
+      "email": "info@jamessmith.com",
+      "phone": "(928) 548-5684",
+      "website": "https://allclearervices.com",
+      "address_street": "8560 Lincoln Drive",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "58730",
+      "lat": 43.616601074860824,
+      "lng": -116.23770819679045,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Thomas Hernandez",
+      "email": "thomashernandez.inspection@aol.com",
+      "phone": "(334) 322-3376",
+      "website": "https://guardcompanyhome.com",
+      "address_street": "2423 Madison Street",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "34191",
+      "lat": 43.62536744321632,
+      "lng": -116.23704433453373,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Thomas Jones",
+      "email": "contact@thomasjonesinspections.com",
+      "phone": "(623) 345-7532",
+      "website": null,
+      "address_street": "3028 Church Road",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "92947",
+      "lat": 43.57962299206882,
+      "lng": -116.17588232674915,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 19,
+      "license_number": "LIC69169",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "David Brown",
+      "email": "davidbrown@inspection.net",
+      "phone": "(602) 708-4955",
+      "website": null,
+      "address_street": "2528 Pine Road",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "83035",
+      "lat": 43.57807927089794,
+      "lng": -116.21600574598317,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Robert Garcia",
+      "email": "robertgarcia.inspection@inspection.net",
+      "phone": "(205) 704-1007",
+      "website": "https://allclearerviceshome.com",
+      "address_street": "7349 Pine Road",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "35825",
+      "lat": 43.586165684595066,
+      "lng": -116.24903753422679,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "Robert Garcia",
+      "email": "robertgarcia.inspection@homeinspections.com",
+      "phone": "(251) 667-4545",
+      "website": "https://www.certifiedinspectorsinspections.com",
+      "address_street": "1636 Cedar Lane",
+      "address_city": "Boise",
+      "address_state": "ID",
+      "address_zip": "12676",
+      "lat": 43.58690057574102,
+      "lng": -116.24286793266627,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": "LIC21656",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "Steven Martinez",
+      "email": "contact@stevenmartinezinspections.com",
+      "phone": "(907) 874-1137",
+      "website": "https://www.firstchoiceinspections.com",
+      "address_street": "5911 Main Street",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "76510",
+      "lat": 39.96225890694731,
+      "lng": -97.96934929582181,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 1,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "Michael Garcia",
+      "email": "michaelgarcia@yahoo.com",
+      "phone": "(928) 610-2441",
+      "website": "https://firstchoicehome.com",
+      "address_street": "7578 Main Street",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "76033",
+      "lat": 39.959123177871085,
+      "lng": -98.01285406408833,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 8,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "Michael Brown",
+      "email": "michaelbrown@yahoo.com",
+      "phone": "(907) 485-4811",
+      "website": "https://firstchoice.com",
+      "address_street": "305 School Street",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "40218",
+      "lat": 39.95700451102607,
+      "lng": -98.03662535668556,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Steven Garcia",
+      "email": "contact@stevengarciainspections.com",
+      "phone": "(251) 844-4940",
+      "website": "https://eagleeyehome.com",
+      "address_street": "2874 Lincoln Drive",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "79608",
+      "lat": 40.04315928169787,
+      "lng": -98.00966658234762,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 3,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "William Lopez",
+      "email": "contact@williamlopezinspections.com",
+      "phone": "(205) 291-3626",
+      "website": "https://www.accurateproperty.net",
+      "address_street": "9393 Park Avenue",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "17541",
+      "lat": 39.99046340100808,
+      "lng": -98.02179289782354,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Christopher Gonzalez",
+      "email": "christophergonzalez62@hotmail.com",
+      "phone": "(623) 706-6592",
+      "website": "https://detailedco.com",
+      "address_street": "9978 Elm Street",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "82171",
+      "lat": 40.048628277392055,
+      "lng": -98.02790104105837,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 25,
+      "license_number": "LIC3634",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "John Williams",
+      "email": "johnwilliams@gmail.com",
+      "phone": "(602) 310-6984",
+      "website": null,
+      "address_street": "6164 Maple Drive",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "98565",
+      "lat": 39.97853592107971,
+      "lng": -97.98099335421318,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Daniel Wilson",
+      "email": "danielwilson82@yahoo.com",
+      "phone": "(520) 551-3072",
+      "website": null,
+      "address_street": "9020 Madison Street",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "22690",
+      "lat": 40.03434687877328,
+      "lng": -97.96408918909222,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 22,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "Brian Jones",
+      "email": "contact@brianjonesinspections.com",
+      "phone": "(205) 869-2692",
+      "website": "https://professionalevaluations.com",
+      "address_street": "2229 Maple Drive",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "36939",
+      "lat": 39.966494361957395,
+      "lng": -97.9771570698876,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": "LIC56686",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Eagle Eye Property Inspections",
+      "owner_name": "Daniel Hernandez",
+      "email": "info@danielhernandez.com",
+      "phone": "(334) 270-6248",
+      "website": null,
+      "address_street": "490 Church Road",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "73207",
+      "lat": 39.99578340562823,
+      "lng": -98.0274681687675,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Quality First Home Inspectors",
+      "owner_name": "Daniel Hernandez",
+      "email": "danielhernandez.inspection@gmail.com",
+      "phone": "(602) 430-8913",
+      "website": "https://qualityfirstinspectors.com",
+      "address_street": "615 Park Avenue",
+      "address_city": "Meridian",
+      "address_state": "ID",
+      "address_zip": "51766",
+      "lat": 40.04892063053003,
+      "lng": -97.95618184228132,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 11,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "David Smith",
+      "email": "info@davidsmith.com",
+      "phone": "(334) 178-4571",
+      "website": "https://www.firstchoiceinspections.com",
+      "address_street": "2309 Church Road",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "41077",
+      "lat": 39.95034053242794,
+      "lng": -97.9815469745772,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "Andrew Williams",
+      "email": "andrewwilliams.inspection@inspection.net",
+      "phone": "(928) 454-7106",
+      "website": "https://thoroughassessments.com",
+      "address_street": "3209 Third Street",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "57533",
+      "lat": 39.99639064570274,
+      "lng": -97.99056405528356,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 23,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "John Smith",
+      "email": "contact@johnsmithinspections.com",
+      "phone": "(256) 361-8419",
+      "website": "https://completeervices.com",
+      "address_street": "8915 Lincoln Drive",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "35862",
+      "lat": 40.0165966272602,
+      "lng": -97.99076225216072,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "TrustPoint Home Inspection",
+      "owner_name": "Christopher Miller",
+      "email": "christophermiller@outlook.com",
+      "phone": "(480) 946-8481",
+      "website": "https://trustpoint.com",
+      "address_street": "9245 Park Avenue",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "48859",
+      "lat": 40.013196965893044,
+      "lng": -97.96243874805945,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Certified Property Inspectors",
+      "owner_name": "Paul Smith",
+      "email": "contact@paulsmithinspections.com",
+      "phone": "(251) 405-7782",
+      "website": "https://certifiedinspectorshome.com",
+      "address_street": "6846 Cedar Lane",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "88066",
+      "lat": 40.01048924969421,
+      "lng": -98.03180659514484,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 9,
+      "license_number": "LIC84706",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "David Johnson",
+      "email": "davidjohnson8@propertycheck.com",
+      "phone": "(334) 870-1580",
+      "website": "https://premiererviceshome.com",
+      "address_street": "2129 Washington Avenue",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "17512",
+      "lat": 39.967058002021844,
+      "lng": -97.96841260277859,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Residential Inspection",
+        "New Construction Inspection"
+      ],
+      "years_in_business": 14,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "AllClear Inspection Services",
+      "owner_name": "Mark Williams",
+      "email": "markwilliams@yahoo.com",
+      "phone": "(907) 933-4785",
+      "website": "https://www.allclearervicesinspections.com",
+      "address_street": "5561 Washington Avenue",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "54764",
+      "lat": 39.974465758993226,
+      "lng": -97.96053193039324,
+      "certifications": [
+        "NAHI",
+        "CREIA"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 17,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Premier Property Inspection Services",
+      "owner_name": "Michael Anderson",
+      "email": "michaelanderson79@yahoo.com",
+      "phone": "(251) 452-5664",
+      "website": "https://www.premierervicesinspections.com",
+      "address_street": "4326 Madison Street",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "73356",
+      "lat": 39.9847435964983,
+      "lng": -97.9514796845176,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Foundation Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "William Davis",
+      "email": "contact@williamdavisinspections.com",
+      "phone": "(256) 942-8514",
+      "website": "https://detailedco.com",
+      "address_street": "4586 Church Road",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "87657",
+      "lat": 39.962039357011164,
+      "lng": -97.96721861279268,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 21,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Paul Martinez",
+      "email": "info@paulmartinez.com",
+      "phone": "(256) 683-4455",
+      "website": "https://www.guardcompanyproperty.net",
+      "address_street": "7458 Washington Avenue",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "81831",
+      "lat": 39.97731442845693,
+      "lng": -97.9622927616712,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 5,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Quality First Home Inspectors",
+      "owner_name": "Brian Jones",
+      "email": "contact@brianjonesinspections.com",
+      "phone": "(334) 412-2612",
+      "website": "https://qualityfirstinspectorshome.com",
+      "address_street": "3930 Pine Road",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "69242",
+      "lat": 39.983542428084554,
+      "lng": -98.01109149908739,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Paul Johnson",
+      "email": "info@pauljohnson.com",
+      "phone": "(907) 510-8923",
+      "website": "https://www.safecheckproperty.net",
+      "address_street": "8109 Madison Street",
+      "address_city": "Detroit",
+      "address_state": "MI",
+      "address_zip": "30994",
+      "lat": 39.95725593390796,
+      "lng": -98.0170049132162,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Pool Inspection",
+        "HVAC Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": "LIC31865",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "John Smith",
+      "email": "info@johnsmith.com",
+      "phone": "(520) 373-8234",
+      "website": "https://www.firstchoiceproperty.net",
+      "address_street": "1903 Park Avenue",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "31645",
+      "lat": 39.95013952682464,
+      "lng": -97.9699887521043,
+      "certifications": [
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 19,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Kenneth Jones",
+      "email": "contact@kennethjonesinspections.com",
+      "phone": "(907) 969-8797",
+      "website": "https://reliableresidential.com",
+      "address_street": "6500 School Street",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "63434",
+      "lat": 40.04163820438881,
+      "lng": -97.97904696721703,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 16,
+      "license_number": null,
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "James Hernandez",
+      "email": "info@jameshernandez.com",
+      "phone": "(480) 286-6263",
+      "website": "https://completeervices.com",
+      "address_street": "3464 Washington Avenue",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "99678",
+      "lat": 40.00313694104475,
+      "lng": -97.96894564961876,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": "LIC9016",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "Thomas Wilson",
+      "email": "contact@thomaswilsoninspections.com",
+      "phone": "(205) 474-3050",
+      "website": "https://www.detailedcoinspections.com",
+      "address_street": "4402 Main Street",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "19526",
+      "lat": 40.03598489497037,
+      "lng": -97.98275618054272,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 23,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "David Lopez",
+      "email": "contact@davidlopezinspections.com",
+      "phone": "(334) 431-1756",
+      "website": null,
+      "address_street": "10 Second Avenue",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "95329",
+      "lat": 39.96383054072169,
+      "lng": -97.98368727136904,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 11,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Complete Home Inspection Services",
+      "owner_name": "Andrew Gonzalez",
+      "email": "info@andrewgonzalez.com",
+      "phone": "(602) 661-6849",
+      "website": "https://completeerviceshome.com",
+      "address_street": "6803 Second Avenue",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "66842",
+      "lat": 40.04672503300402,
+      "lng": -97.95671199891305,
+      "certifications": [
+        "ICC",
+        "ASHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Radon Testing"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Steven Lopez",
+      "email": "contact@stevenlopezinspections.com",
+      "phone": "(480) 392-6121",
+      "website": "https://www.reliableresidentialinspections.com",
+      "address_street": "4815 Elm Street",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "23166",
+      "lat": 39.95619148382062,
+      "lng": -97.99529601751696,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Roof Inspection"
+      ],
+      "years_in_business": 24,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Christopher Lopez",
+      "email": "info@christopherlopez.com",
+      "phone": "(907) 518-6094",
+      "website": "https://safecheck.com",
+      "address_street": "3128 Pine Road",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "75264",
+      "lat": 40.01377225162044,
+      "lng": -97.95539469826814,
+      "certifications": [
+        "IAEI",
+        "ICC"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 6,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "James Williams",
+      "email": "contact@jameswilliamsinspections.com",
+      "phone": "(251) 409-6423",
+      "website": null,
+      "address_street": "2144 Washington Avenue",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "68589",
+      "lat": 40.02193284973159,
+      "lng": -98.00548710304115,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 4,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "First Choice Home Inspections",
+      "owner_name": "Kenneth Hernandez",
+      "email": "contact@kennethhernandezinspections.com",
+      "phone": "(251) 564-7651",
+      "website": "https://firstchoice.com",
+      "address_street": "5603 Pine Road",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "31850",
+      "lat": 39.95571161633905,
+      "lng": -98.04609625072801,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Property Inspection",
+        "Septic Inspection"
+      ],
+      "years_in_business": 22,
+      "license_number": "LIC39074",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Professional Property Evaluations",
+      "owner_name": "David Johnson",
+      "email": "info@davidjohnson.com",
+      "phone": "(520) 385-6645",
+      "website": "https://www.professionalevaluationsproperty.net",
+      "address_street": "1643 Third Street",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "11026",
+      "lat": 39.973430760557704,
+      "lng": -98.04753548803859,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Plumbing Inspection"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "SafeCheck Home Inspections",
+      "owner_name": "Mark Lopez",
+      "email": "marklopez.inspection@aol.com",
+      "phone": "(205) 907-5652",
+      "website": "https://www.safecheckinspections.com",
+      "address_street": "6929 Elm Street",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "23048",
+      "lat": 40.003672360848604,
+      "lng": -97.95554675619509,
+      "certifications": [
+        "Certified",
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 12,
+      "license_number": "LIC45092",
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Paul Williams",
+      "email": "paulwilliams@propertycheck.com",
+      "phone": "(520) 957-7788",
+      "website": "https://www.reliableresidentialinspections.com",
+      "address_street": "1132 Cedar Lane",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "98618",
+      "lat": 40.03427422507712,
+      "lng": -98.03139051180042,
+      "certifications": [
+        "AHIT"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 7,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Accurate Home Inspections",
+      "owner_name": "Brian Jones",
+      "email": "contact@brianjonesinspections.com",
+      "phone": "(251) 814-3331",
+      "website": "https://www.accurateproperty.net",
+      "address_street": "4937 First Street",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "96895",
+      "lat": 40.041186885637885,
+      "lng": -98.04341601065796,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 2,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "HomeGuard Inspection Company",
+      "owner_name": "Robert Gonzalez",
+      "email": "contact@robertgonzalezinspections.com",
+      "phone": "(334) 635-6704",
+      "website": "https://www.guardcompanyinspections.com",
+      "address_street": "3092 Cedar Lane",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "56315",
+      "lat": 39.978097528860204,
+      "lng": -98.04661129950556,
+      "certifications": [
+        "Licensed"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 25,
+      "license_number": "LIC66835",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Detailed Home Inspection Co.",
+      "owner_name": "James Miller",
+      "email": "jamesmiller.inspection@inspection.net",
+      "phone": "(205) 415-1077",
+      "website": "https://detailedco.com",
+      "address_street": "9963 Maple Drive",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "59614",
+      "lat": 40.02807579593692,
+      "lng": -97.96044713633574,
+      "certifications": [
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Well Water Testing"
+      ],
+      "years_in_business": 7,
+      "license_number": "LIC45955",
+      "insurance_verified": false,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Thorough Property Assessments",
+      "owner_name": "David Williams",
+      "email": "contact@davidwilliamsinspections.com",
+      "phone": "(602) 309-5498",
+      "website": "https://thoroughassessments.com",
+      "address_street": "422 Cedar Lane",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "68479",
+      "lat": 40.01238625555442,
+      "lng": -98.01420171995298,
+      "certifications": [
+        "ASHI",
+        "InterNACHI"
+      ],
+      "services": [
+        "Home Inspection",
+        "Mold Testing",
+        "Termite Inspection"
+      ],
+      "years_in_business": 20,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    },
+    {
+      "business_name": "Reliable Residential Inspections",
+      "owner_name": "Michael Williams",
+      "email": "contact@michaelwilliamsinspections.com",
+      "phone": "(928) 409-8909",
+      "website": null,
+      "address_street": "6204 Second Avenue",
+      "address_city": "Grand Rapids",
+      "address_state": "MI",
+      "address_zip": "40222",
+      "lat": 40.03391965692301,
+      "lng": -97.9929643503797,
+      "certifications": [
+        "InterNACHI",
+        "NACHI"
+      ],
+      "services": [
+        "Residential Inspection",
+        "Electrical Inspection"
+      ],
+      "years_in_business": 10,
+      "license_number": null,
+      "insurance_verified": true,
+      "created_at": "2025-07-27T07:03:25.655Z",
+      "updated_at": "2025-07-27T07:03:25.655Z"
+    }
+  ]
+}

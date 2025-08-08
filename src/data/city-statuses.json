@@ -1,0 +1,30 @@
+[
+  {
+    "name": "berkeley",
+    "status": "active",
+    "inspector_count": 78,
+    "completion_percentage": 100,
+    "inspector_types": [
+      "home_inspectors",
+      "termite_pest",
+      "foundation_structural",
+      "specialty_testing",
+      "commercial_building"
+    ],
+    "activated_at": "2025-07-28T10:27:29.012Z"
+  },
+  {
+    "name": "fremont",
+    "status": "active",
+    "inspector_count": 78,
+    "completion_percentage": 100,
+    "inspector_types": [
+      "home_inspectors",
+      "termite_pest",
+      "foundation_structural",
+      "specialty_testing",
+      "commercial_building"
+    ],
+    "activated_at": "2025-07-28T10:29:00.820Z"
+  }
+]

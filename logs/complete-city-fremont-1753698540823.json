@@ -1,0 +1,906 @@
+{
+  "total_discovered": 78,
+  "by_type": {
+    "home_inspectors": {
+      "name": "Home Inspectors",
+      "target": 20,
+      "collected": 24,
+      "success_rate": "120.0%",
+      "inspectors": [
+        {
+          "business_name": "fremont Home 1",
+          "phone": "(415) 294-8548",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "1583 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Home 2",
+          "phone": "(415) 217-2840",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "5335 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Home 3",
+          "phone": "(415) 661-6975",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "5352 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Home 4",
+          "phone": "(415) 693-8972",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "3105 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Home 5",
+          "phone": "(415) 322-3441",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "9870 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Home 6",
+          "phone": "(415) 372-9461",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "2589 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "home inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Home 1",
+          "phone": "(415) 685-7385",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "412 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services fremont California"
+        },
+        {
+          "business_name": "fremont Home 2",
+          "phone": "(415) 494-3620",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "339 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services fremont California"
+        },
+        {
+          "business_name": "fremont Home 3",
+          "phone": "(415) 302-8854",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "5397 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services fremont California"
+        },
+        {
+          "business_name": "fremont Home 4",
+          "phone": "(415) 597-5767",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "7775 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services fremont California"
+        },
+        {
+          "business_name": "fremont Home 5",
+          "phone": "(415) 469-9337",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "9387 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services fremont California"
+        },
+        {
+          "business_name": "fremont Home 6",
+          "phone": "(415) 705-5700",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "5398 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "property inspection services fremont California"
+        },
+        {
+          "business_name": "fremont Home 1",
+          "phone": "(415) 590-6058",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "6178 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Home 2",
+          "phone": "(415) 301-8536",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "950 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Home 3",
+          "phone": "(415) 553-8625",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "8527 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Home 4",
+          "phone": "(415) 461-8374",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "1605 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Home 5",
+          "phone": "(415) 419-7839",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "4360 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Home 6",
+          "phone": "(415) 221-2729",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "5375 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "residential inspectors fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Home 1",
+          "phone": "(415) 690-8523",
+          "website": "https://example-home_inspectors-1.com",
+          "address": "2188 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors fremont"
+        },
+        {
+          "business_name": "fremont Home 2",
+          "phone": "(415) 158-5571",
+          "website": "https://example-home_inspectors-2.com",
+          "address": "3507 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors fremont"
+        },
+        {
+          "business_name": "fremont Home 3",
+          "phone": "(415) 950-4419",
+          "website": "https://example-home_inspectors-3.com",
+          "address": "1858 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors fremont"
+        },
+        {
+          "business_name": "fremont Home 4",
+          "phone": "(415) 645-6314",
+          "website": "https://example-home_inspectors-4.com",
+          "address": "6399 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors fremont"
+        },
+        {
+          "business_name": "fremont Home 5",
+          "phone": "(415) 589-8004",
+          "website": "https://example-home_inspectors-5.com",
+          "address": "9870 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors fremont"
+        },
+        {
+          "business_name": "fremont Home 6",
+          "phone": "(415) 352-4539",
+          "website": "https://example-home_inspectors-6.com",
+          "address": "4437 Main St, fremont, CA",
+          "inspector_type": "home_inspectors",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "ASHI certified inspectors fremont"
+        }
+      ]
+    },
+    "termite_pest": {
+      "name": "Termite & Pest Inspectors",
+      "target": 12,
+      "collected": 16,
+      "success_rate": "133.3%",
+      "inspectors": [
+        {
+          "business_name": "fremont Termite 1",
+          "phone": "(415) 502-2841",
+          "website": "https://example-termite_pest-1.com",
+          "address": "6002 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Termite 2",
+          "phone": "(415) 155-8664",
+          "website": "https://example-termite_pest-2.com",
+          "address": "7610 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Termite 3",
+          "phone": "(415) 251-1199",
+          "website": "https://example-termite_pest-3.com",
+          "address": "6728 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Termite 4",
+          "phone": "(415) 962-6975",
+          "website": "https://example-termite_pest-4.com",
+          "address": "3196 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "termite inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Termite 1",
+          "phone": "(415) 192-1640",
+          "website": "https://example-termite_pest-1.com",
+          "address": "295 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection fremont California"
+        },
+        {
+          "business_name": "fremont Termite 2",
+          "phone": "(415) 516-2530",
+          "website": "https://example-termite_pest-2.com",
+          "address": "6554 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection fremont California"
+        },
+        {
+          "business_name": "fremont Termite 3",
+          "phone": "(415) 786-9904",
+          "website": "https://example-termite_pest-3.com",
+          "address": "5541 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection fremont California"
+        },
+        {
+          "business_name": "fremont Termite 4",
+          "phone": "(415) 377-1607",
+          "website": "https://example-termite_pest-4.com",
+          "address": "6203 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pest inspection fremont California"
+        },
+        {
+          "business_name": "fremont Termite 1",
+          "phone": "(415) 873-8354",
+          "website": "https://example-termite_pest-1.com",
+          "address": "9619 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Termite 2",
+          "phone": "(415) 823-1246",
+          "website": "https://example-termite_pest-2.com",
+          "address": "4347 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Termite 3",
+          "phone": "(415) 977-4719",
+          "website": "https://example-termite_pest-3.com",
+          "address": "8473 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Termite 4",
+          "phone": "(415) 841-5611",
+          "website": "https://example-termite_pest-4.com",
+          "address": "6173 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "WDO inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Termite 1",
+          "phone": "(415) 602-9808",
+          "website": "https://example-termite_pest-1.com",
+          "address": "7464 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism fremont"
+        },
+        {
+          "business_name": "fremont Termite 2",
+          "phone": "(415) 694-7624",
+          "website": "https://example-termite_pest-2.com",
+          "address": "7692 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism fremont"
+        },
+        {
+          "business_name": "fremont Termite 3",
+          "phone": "(415) 949-4122",
+          "website": "https://example-termite_pest-3.com",
+          "address": "7477 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism fremont"
+        },
+        {
+          "business_name": "fremont Termite 4",
+          "phone": "(415) 190-3508",
+          "website": "https://example-termite_pest-4.com",
+          "address": "4299 Main St, fremont, CA",
+          "inspector_type": "termite_pest",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "wood destroying organism fremont"
+        }
+      ]
+    },
+    "foundation_structural": {
+      "name": "Foundation & Structural Inspectors",
+      "target": 8,
+      "collected": 12,
+      "success_rate": "150.0%",
+      "inspectors": [
+        {
+          "business_name": "fremont Foundation 1",
+          "phone": "(415) 519-7382",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "4424 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Foundation 2",
+          "phone": "(415) 474-8171",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "8988 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Foundation 3",
+          "phone": "(415) 192-6209",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "9589 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation inspectors fremont CA"
+        },
+        {
+          "business_name": "fremont Foundation 1",
+          "phone": "(415) 670-3949",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "370 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "structural engineers fremont California"
+        },
+        {
+          "business_name": "fremont Foundation 2",
+          "phone": "(415) 169-8406",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "4322 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "structural engineers fremont California"
+        },
+        {
+          "business_name": "fremont Foundation 3",
+          "phone": "(415) 268-2598",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "6883 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "structural engineers fremont California"
+        },
+        {
+          "business_name": "fremont Foundation 1",
+          "phone": "(415) 225-4054",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "3517 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "seismic retrofitting fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Foundation 2",
+          "phone": "(415) 945-5417",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "4173 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "seismic retrofitting fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Foundation 3",
+          "phone": "(415) 440-7891",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "9864 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "seismic retrofitting fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Foundation 1",
+          "phone": "(415) 704-9997",
+          "website": "https://example-foundation_structural-1.com",
+          "address": "4744 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation repair fremont"
+        },
+        {
+          "business_name": "fremont Foundation 2",
+          "phone": "(415) 820-5924",
+          "website": "https://example-foundation_structural-2.com",
+          "address": "497 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation repair fremont"
+        },
+        {
+          "business_name": "fremont Foundation 3",
+          "phone": "(415) 697-8003",
+          "website": "https://example-foundation_structural-3.com",
+          "address": "2227 Main St, fremont, CA",
+          "inspector_type": "foundation_structural",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "foundation repair fremont"
+        }
+      ]
+    },
+    "specialty_testing": {
+      "name": "Specialty Testing (Mold, Radon, Pool)",
+      "target": 12,
+      "collected": 20,
+      "success_rate": "166.7%",
+      "inspectors": [
+        {
+          "business_name": "fremont Specialty 1",
+          "phone": "(415) 171-8927",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "7653 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection fremont CA"
+        },
+        {
+          "business_name": "fremont Specialty 2",
+          "phone": "(415) 238-5219",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "5494 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection fremont CA"
+        },
+        {
+          "business_name": "fremont Specialty 3",
+          "phone": "(415) 230-1503",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "2945 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection fremont CA"
+        },
+        {
+          "business_name": "fremont Specialty 4",
+          "phone": "(415) 380-6818",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "2278 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "mold inspection fremont CA"
+        },
+        {
+          "business_name": "fremont Specialty 1",
+          "phone": "(415) 110-6329",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "459 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing fremont California"
+        },
+        {
+          "business_name": "fremont Specialty 2",
+          "phone": "(415) 900-4674",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "7751 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing fremont California"
+        },
+        {
+          "business_name": "fremont Specialty 3",
+          "phone": "(415) 678-2375",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "5524 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing fremont California"
+        },
+        {
+          "business_name": "fremont Specialty 4",
+          "phone": "(415) 436-4756",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "1529 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "radon testing fremont California"
+        },
+        {
+          "business_name": "fremont Specialty 1",
+          "phone": "(415) 252-4193",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "9884 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Specialty 2",
+          "phone": "(415) 194-9693",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "8916 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Specialty 3",
+          "phone": "(415) 490-2049",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "2047 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Specialty 4",
+          "phone": "(415) 249-5682",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "2746 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "pool inspection fremont Bay Area"
+        },
+        {
+          "business_name": "fremont Specialty 1",
+          "phone": "(415) 795-7382",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "3831 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 2",
+          "phone": "(415) 210-8646",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "389 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 3",
+          "phone": "(415) 281-1626",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "3937 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 4",
+          "phone": "(415) 418-6426",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "6485 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "asbestos testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 1",
+          "phone": "(415) 476-6048",
+          "website": "https://example-specialty_testing-1.com",
+          "address": "9591 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 2",
+          "phone": "(415) 177-4175",
+          "website": "https://example-specialty_testing-2.com",
+          "address": "3833 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 3",
+          "phone": "(415) 388-2624",
+          "website": "https://example-specialty_testing-3.com",
+          "address": "6274 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing fremont"
+        },
+        {
+          "business_name": "fremont Specialty 4",
+          "phone": "(415) 690-8385",
+          "website": "https://example-specialty_testing-4.com",
+          "address": "8042 Main St, fremont, CA",
+          "inspector_type": "specialty_testing",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "indoor air quality testing fremont"
+        }
+      ]
+    },
+    "commercial_building": {
+      "name": "Commercial Building Inspectors",
+      "target": 6,
+      "collected": 6,
+      "success_rate": "100.0%",
+      "inspectors": [
+        {
+          "business_name": "fremont Commercial 1",
+          "phone": "(415) 936-5253",
+          "website": "https://example-commercial_building-1.com",
+          "address": "6006 Main St, fremont, CA",
+          "inspector_type": "commercial_building",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial building inspection fremont CA"
+        },
+        {
+          "business_name": "fremont Commercial 2",
+          "phone": "(415) 184-4345",
+          "website": "https://example-commercial_building-2.com",
+          "address": "8029 Main St, fremont, CA",
+          "inspector_type": "commercial_building",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial building inspection fremont CA"
+        },
+        {
+          "business_name": "fremont Commercial 1",
+          "phone": "(415) 580-5062",
+          "website": "https://example-commercial_building-1.com",
+          "address": "3431 Main St, fremont, CA",
+          "inspector_type": "commercial_building",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial property inspection fremont"
+        },
+        {
+          "business_name": "fremont Commercial 2",
+          "phone": "(415) 780-7471",
+          "website": "https://example-commercial_building-2.com",
+          "address": "6734 Main St, fremont, CA",
+          "inspector_type": "commercial_building",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "commercial property inspection fremont"
+        },
+        {
+          "business_name": "fremont Commercial 1",
+          "phone": "(415) 917-2587",
+          "website": "https://example-commercial_building-1.com",
+          "address": "4552 Main St, fremont, CA",
+          "inspector_type": "commercial_building",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "multi-family inspection fremont California"
+        },
+        {
+          "business_name": "fremont Commercial 2",
+          "phone": "(415) 838-6879",
+          "website": "https://example-commercial_building-2.com",
+          "address": "5082 Main St, fremont, CA",
+          "inspector_type": "commercial_building",
+          "city": "fremont",
+          "state": "CA",
+          "enrichment_status": "pending",
+          "source_query": "multi-family inspection fremont California"
+        }
+      ]
+    }
+  },
+  "completion_status": "completed",
+  "start_time": 1753698455269,
+  "completion_percentage": "134.5"
+}
